@@ -6,23 +6,7 @@ Por que trabalhar na Genomika ?
 Conheça a Genomika
 ===============================================
 
-A globo.com é líder absoluta no mercado de portais de notícias, esportes e
-entretenimento em toda a América Latina. São dezenas de milhões de acessos por
-dia aos portais, com a home da globo.com sendo a principal fonte de acessos com
-cerca de 45 milhões de acessos por dia.
-
-Algumas contas:
-
-* 45 milhões de acessos por dia;
-* 1.8 milhões de acessos por hora;
-* 32 mil acessos por minuto;
-
-Além disso são cerca de 10 milhões de visitantes únicos (e aumentando todo
-dia).
-
-Logo, **um dos motivos de você querer trabalhar na globo.com é ser parte
-integrante da vida diária de mais de 10 milhões de brasileiros**.
-
+....
 
 Como submeter seu curriculo para uma das vagas da Genomika ?
 ===============================================
