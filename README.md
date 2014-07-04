@@ -17,11 +17,11 @@ Em nosso setor de T.I e bioinformática trabalhamos com desenvolvimento de siste
 Como submeter seu curriculo para uma das vagas da Genomika ?
 ===============================================
 
-Se você se convenceu que quer trabalhar na  Genomika
+Acompanhe esta página em nosso repositório do github, sempre pode aparecer novas oportunidades de trabalho em nosso setor de bioinformática e tecnologia da informação.  Se houver uma vaga que encaixe no seu perfil, então siga os passos a seguir:
 
 * Forka esse projeto;
 * No seu fork, preencha o arquivo cv.mkd com seu currículo;
-* Não esqueça de indicar a vaga que você escolheu; se você achar que se encaixa em mais de uma vaga, especifique todas!
+* Não esqueça de indicar a vaga que você escolheu;
 * Faça um pull request.
 * Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Encaminhe o seu CV (ainda especificando a vaga) para [marcel@genomika.com.br](marcel@genomika.com.br).
 
@@ -33,11 +33,10 @@ Só para lembrar: Estes dados que você está colocando ficarão visíveis para 
 logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar
 por mensagem direta.
 
-Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento
-simplesmente porque dá dinheiro e realmente não está nessa por amor a
-profissão, por favor procure outra empresa. É essencial que os candidatos que
-mandarem currículo sejam apaixonados por desenvolvimento.
-
+Estamos procurando pessoas que gostem do que fazem e se sintam à vontade em trabalhar
+com desenvolvimento; mineração de dados e que tenham de alguma forma afinidade com a 
+área de saúde e biologia. É essencial que os candidatos que mandem currículos realmente
+se identifiquem com a vaga em interesse.
 
 Vagas Disponíveis
 =================
