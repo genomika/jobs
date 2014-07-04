@@ -45,7 +45,7 @@ Vagas Disponíveis
 Estágio em Bioinformática e Tecnologia de Informação (1 Vaga)
 ---------------------------------
 
-A oportunidade de aprender e ajudar no desenvolvimento de sistemas computacionais de auxílio aos nossos testes genéticos. Isto inclui atividades de programação, manutenção, documentação e suporte em nosso setor e se sentir à vontade em trabalhar com problemas complexos que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
+A oportunidade de aprender e ajudar no desenvolvimento de sistemas computacionais de auxílio à análise e processamento de  nossos testes genéticos. Isto inclui atividades de programação, manutenção, documentação e suporte em nosso setor e se sentir à vontade em trabalhar com problemas complexos que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
 
 **Requisitos para a vaga**
 
