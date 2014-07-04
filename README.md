@@ -12,7 +12,7 @@ Conheça a Genomika
 
 A Genomika situa-se em Recife, Pernambuco uma das capitais que posuem um dos maiores pólos tecnológicos do Brasil em conjunto com um dos mais modernos pólos clínicos do Norte-Nordeste. No coração do centro clínico do Recife, o laboratório atende hospitais, laboratórios parceiros e pacientes de todo o Brasil contando com mais de 150 tipos de testes genéticos disponíveis no mercado.
 
-
+Em nosso setor de T.I e bioinformática trabalhamos com desenvolvimento de sistemas de suporte ao diagnóstico de doenças, análises de dados e ferramentas de gestão laboratorial hospedados em servidores de alto desempenho local e remoto fora do Brasil.
 
 Como submeter seu curriculo para uma das vagas da Genomika ?
 ===============================================
