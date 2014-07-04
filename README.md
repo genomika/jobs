@@ -34,7 +34,7 @@ facebook, sites online, outros trabalhos, etc).
 
 Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo,
 logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar
-por mensagem direta.
+por e-mail.
 
 Estamos procurando pessoas que gostem do que fazem e se sintam à vontade em trabalhar
 com desenvolvimento; mineração de dados e que tenham de alguma forma afinidade com a 
