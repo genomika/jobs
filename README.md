@@ -14,6 +14,9 @@ A Genomika situa-se em Recife, Pernambuco uma das capitais que posuem um dos mai
 
 Em nosso setor de T.I e bioinformática trabalhamos com desenvolvimento de sistemas de suporte ao diagnóstico de doenças, análises de dados e ferramentas de gestão laboratorial hospedados em servidores de alto desempenho local e remoto fora do Brasil.
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+
 Como submeter seu curriculo para uma das vagas da Genomika ?
 ===============================================
 
@@ -37,6 +40,7 @@ Estamos procurando pessoas que gostem do que fazem e se sintam à vontade em tra
 com desenvolvimento; mineração de dados e que tenham de alguma forma afinidade com a 
 área de saúde e biologia. É essencial que os candidatos que mandem currículos realmente
 se identifiquem com a vaga em interesse.
+
 
 Vagas Disponíveis
 =================
