@@ -50,6 +50,6 @@ Vagas Disponíveis
 * Experiência com os protocolos e operação de sequenciamento de segunda-geração.
 * Experiência com instrumentos da Illumina ou IonTorrent.
 
-* Os interessados devem enviar CV para info@genomika.com.br
+* Os interessados devem enviar CV para info@genomika.com.br. As entrevistas ocorrerão em Novembro, com expectativa de início do trabalho em dezembro. 
 
 
