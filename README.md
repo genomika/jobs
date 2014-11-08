@@ -45,13 +45,13 @@ se identifiquem com a vaga em interesse.
 Vagas Disponíveis
 =================
 
--Estágio em Bioinformática e Tecnologia de Informação (1 Vaga)
+Estágio em Bioinformática e Tecnologia de Informação (1 Vaga)
 ----------------------------------
--
+
 -A oportunidade de aprender e ajudar no desenvolvimento de sistemas computacionais de auxílio à análise e processamento de  nossos testes genéticos. Isto inclui atividades de programação, manutenção, documentação e suporte em nosso setor e se sentir à vontade em trabalhar com problemas complexos que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
--
--**Requisitos para a vaga**
--
+
+**Requisitos para a vaga**
+
 -* Graduando em alguma área de computação
 -* Ter disponibilidade para 30hrs semanal presencial.
 -* Proficiência em algoritmos, estrutura de dados e arquitetura de sistemas. 
@@ -60,8 +60,8 @@ Vagas Disponíveis
 -* Ter conhecimento em pelo menos 1 linguagem de script (ex: shell, python, ruby, perl, etc..)
 -* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
 -
--**Requisitos desejáveis**
--
+**Requisitos desejáveis**
+
 -* Afinidade ou conhecimentos em biologia, genética ou bioinformática;
 -* Experiência com programação web 
 -* Queries SQL e NOSQL
