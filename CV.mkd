@@ -1,17 +1,29 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+SELEÇÃO ESTÁGIO
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+**nome: Lincoln de Macêdo Santos Aguiar**
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+**email:** lincoln000@openmailbox.org \<\> demacdolincoln@gmail.com
+
+**telefone:** (81) 9243-9301
+
+---
+**formação:** atualmente aluno de Licenciatura em Computação na UFRPE, mas já fiz cursos de administração de sistemas Linux e de programação em Java (este último por causa da bolsa de IC)
+
+**experiência:** bolsista de iniciação científica na UFPE pelo INES (Instituto Nacional de Engenharia de Software) no período de abril até novembro de 2014
+
+**linguagens em que programo:** python num nível entre intermediário e avançado, especialmente por participar da comunidade python, e java também num nível entre intermediário e avançado mas por causa da bolsa de IC, também tenho alguns conhecimentos básicos de shell script da linguagem Julia e depois da palestra sobre Elixir na python Brasil 10, certamente conhecerei um pouco desta linguagem que tem fortes diferenciais ao trabalhar com várias threads
+
+**interesses na área de computação:** ultimamente tenho estudado sobre algoritmos de otimização, iniciando pelo PSO (Particle Swarm Optimization), de algum modo estou me direcionando para IA justamente pelo seu lado multidisciplinar, o que também de alguma forma me atrai para esta vaga de estágio na Genomika
+
+---
+**links para redes sociais:**
+
+* [Facebook](https://www.facebook.com/lincoln.demacedo)
+* [Twitter](https://twitter.com/svartalfhein)
