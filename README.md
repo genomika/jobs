@@ -45,4 +45,24 @@ se identifiquem com a vaga em interesse.
 Vagas Disponíveis
 =================
 
-+Sem vagas no momento. Fique de olho nesta página!
+ Seleção para Programa de Pesquisador na Empresa (PEPE) Bolsista Genomika/FACEPE
+ ----------------------------------
+ 
++ A Genomika Diagnósticos está com 1 vaga para bolsista-pesquisador em um projeto de pesquisa e potencial produto na área de bioinformática e tecnologia da informação. O projeto visa o desenvolvimento e construção de uma plataforma para identificação, análise e visualização de variantes ou mutações causadoreas de doenças genéticas.
+
+ **Requisitos para a vaga**
+
+* Título de Mestre ou Doutorando/Doutor em computação ou com áreas correlatas ligadas à bioinformática.
+* Conhecimento de linguagens de programação (Java, Scala, Python, etc.)
+* Conhecimentos de bancos de dados (SQL ou NoSQL)
+* Conhecimentos em processamento e análise de bases de dados.
+* Proficiência no uso de um sistema operacional baseado em Unix (Linux ou Mac Os)
+* Se sentir à vontade com trabalho em esquipe e times multi-disciplinares;
+* Afinidade com projetos de pesquisa e inovação e desafio tecnológico;
+* Disponibilidade para 30 horas semanais.
+
+** Diferencial **
+* Conhecimentos e/ou experiência com ferramentas de bioinformática, em especial relacionada a análise de variantes;
+* Experiência com Spark,  Apache Hadoop;
+* Experiência sólida em design e arquitetura de software;
+* Experiência com ferramentas para desenvolvimento web e conhecimentos web com JQuery, Javascript, Ajax e outros.
