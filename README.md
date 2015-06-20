@@ -61,7 +61,8 @@ Vagas Disponíveis
 * Afinidade com projetos de pesquisa e inovação e desafio tecnológico;
 * Disponibilidade para 30 horas semanais.
 
-** Diferencial **
+**Diferencial**
+
 * Conhecimentos e/ou experiência com ferramentas de bioinformática, em especial relacionada a análise de variantes;
 * Experiência com Spark,  Apache Hadoop;
 * Experiência sólida em design e arquitetura de software;
