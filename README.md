@@ -45,8 +45,8 @@ se identifiquem com a vaga em interesse.
 Vagas Disponíveis
 =================
 
- Seleção para Programa de Pesquisador na Empresa (PEPE) Bolsista Genomika/FACEPE (1 Vaga)
- ----------------------------------------------------------------------------------------
+Seleção para Programa de Pesquisador na Empresa (PEPE) Bolsista Genomika/FACEPE (1 Vaga)
+------------------------------------------------------------------------------------------
  
 A Genomika Diagnósticos está com 1 vaga para bolsista-pesquisador em um projeto de pesquisa e potencial produto na área de bioinformática e tecnologia da informação. O projeto visa o desenvolvimento e construção de uma plataforma para identificação, análise e visualização de variantes ou mutações causadoreas de doenças genéticas.  Modalidade: Bolsa Mensal formentada pela FACEPE.
 
