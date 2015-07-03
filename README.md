@@ -67,3 +67,27 @@ A Genomika Diagnósticos está com 1 vaga para bolsista-pesquisador em um projet
 * Experiência com Spark,  Apache Hadoop;
 * Experiência sólida em design e arquitetura de software;
 * Experiência com ferramentas para desenvolvimento web e conhecimentos web com JQuery, Javascript, Ajax e outros.
+
+Estágio em Bioinformática (1 Vaga)
+-----------------------------------
+
+A oportunidade de aprender e ajudar no desenvolvimento de sistemas computacionais de auxílio à análise e processamento de  nossos testes genéticos. Isto inclui atividades de programação, manutenção, documentação e suporte em nosso setor e se sentir à vontade em trabalhar com problemas complexos que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
+
+**Requisitos para a vaga**
+
+* Graduando em alguma área de computação ou biologia ou biomedicina ou engenharia biomédica (nestes 2 últimos casos ter experiência comprovada com programação).
+* Ter disponibilidade para 30hrs semanal presencial.
+* Proficiência em algoritmos, estrutura de dados e arquitetura de sistemas. 
+* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
+* Familiar com ambiente unix/linux.
+* Ter conhecimento em pelo menos 1 linguagem de script (ex: shell, python, ruby, perl, etc..)
+* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
+
+**Requisitos desejáveis**
+
+* Afinidade ou conhecimentos em biologia, genética ou bioinformática;
+* Experiência com programação web 
+* Queries SQL e NOSQL
+* Conhecimento em sistemas de controle de versão como git ou SVN
+* Noções básicas de estatística 
+* Familiar sobre conceitos de computação nas nuvens; big data; alto desempenho (hpc).
