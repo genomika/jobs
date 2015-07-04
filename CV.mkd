@@ -7,25 +7,25 @@ Estágio em Bioinformática
 CV
 ==
 
-*Nome*: Victor Duarte Diniz Monteiro  
-*Data de Nascimento*: 18/12/1994  
-*Sexo*: Masculino  
-*Telefone*: (81)9-8854-2276  
-*Email*: victorddiniz@gmail.com / vddm@cin.ufpe.br  
-*Endereço*: Rua Rodrigues Sete, 202, Casa Amarela, Pernambuco, CEP:52051-230  
+**Nome**: Victor Duarte Diniz Monteiro  
+**Data de Nascimento**: 18/12/1994  
+**Sexo**: Masculino  
+**Telefone**: (81)9-8854-2276  
+**Email**: victorddiniz@gmail.com / vddm@cin.ufpe.br  
+**Endereço**: Rua Rodrigues Sete, 202, Casa Amarela, Pernambuco, CEP:52051-230  
 
 Formação Acadêmica
-------------------
+* * *
 
-*Graduando em Ciências da Computação*						*2013 - 2017 (expectativa)*  
-	Universidade Federal de Pernambuco, UFPE				Média Escolar: 8.46
+- **Graduando em Ciências da Computação**                                       **2013 - 2017 (expectativa)**
+	Universidade Federal de Pernambuco, UFPE                                Média Escolar: 8.46
 
-*Monitor de Matemática Discreta*						*Março de 2014 - *
+- **Monitor de Matemática Discreta**                                            **Março de 2014 -**
 	Leciono algumas aulas de revisão sobre grafos, combinatória, Provas e preposições,
 	e assuntos afim da Matemática Discreta.
 	
 Habilidades e Experiências
---------------------------
+* * *
 
 
 
