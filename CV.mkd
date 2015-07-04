@@ -18,7 +18,7 @@ CV
 * * *
 
 - **Graduando em Ciências da Computação:  2013 - 2017 (expectativa)**  
-	Universidade Federal de Pernambuco, UFPE                                Média Escolar: 8.46
+	Universidade Federal de Pernambuco, UFPE, Média Escolar: 8.46
 
 - **Monitor de Matemática Discreta: Março de 2014 -**  
 	Leciono algumas aulas de revisão sobre grafos, combinatória, Provas e preposições,
@@ -27,7 +27,36 @@ CV
 ### Habilidades e Experiências ###
 * * *
 
+- **Experiências em programação**
+	- Linguagens com experiência: C++, Java, SQL/PL
+	- Linguagens básicas: Python, Haskell, HTML/CSS3, Javascript
+	- Frameworks: Django
+	- Desenvolvimento mobile: Android
 
+- **Projetos**  
+  
+	*Maratona de Programação (Março de 2015 - )*: Programa universitário de programação competitiva com treinos semanais 	de 5 horas de duração feito de questões individuis e coletivas cujo o objetivo é obter grande desempenho nas competições 		internacionais, como a [ICPC](http://icpc.baylor.edu/).  
+
+	*Programa de Educação Tutorial - PET Informática (Maio de 2014 - )*: Programa governamental formado por um grupo de 		alunos com bom desempenho acadêmico que tem como objetivo incentivar a pesquisa acadêmica, fazendo conexões a 			sociedade, desenvolver a habilidade de lecionar do aluno, através de aulas de capacitação de informática básica 	e de programação, e criação de programas de extensão, que visam aumentar o impacto da universidade na sociedade.  
+	
+	*Iniciação Científica (Em aprovação)*: Pesquisa na área de bioinformática explorando o ramo de árvores filogenéticas. 	O objetivo da pesquisa é aprimorar e criar uma visualização dos algoritmos propostos por [Christian Baudet e Marie-France 		Sagot] (https://www.dropbox.com/home/ciencias%20da%20computa%C3%A7%C3%A3o/estudos%20extras/Bioinformatica/IC?pre		view=EUCALYPT.pdf) e [Nicolas Wieseke, Matthias Bernt, and Martin Middendorf] 						(https://www.dropbox.com/home/ciencias%20da%20computa%C3%A7%C3%A3o/estudos%20extras/Bioinformatica/IC?preview=unify		ingParsimoniousTree.pdf).  
+
+	*Bee (Em desenvolvimento)*: Aplicativo em desenvolvimento que visa oferecer um ambiente seguro e anônimo para a 		comunidade LGBT de forma que possam trocar experiências e dúvidas através de postagens e comentários. Lidero a			parte de desenvolvimento back-end, mas também auxilio na integração do back-end com o mobile.  
+
+- **Experiências de trabalho**  
+
+	*Trabalho voluntário no CITi (Novembro de 2013 - Março de 2014)*: Empresa júnios de TI vinculada ao Centro de 			Informática da UFPE, tem como objetivo oferecer experiências de mercado ao aluno da graduação. Trabalhei na parte 	de administração e finanças, preparando relatórios finaceiros, fluxo de caixa, precificação e elaboração de contrato. 		Como programador, desenvolvi o front-end de um dos serviços.  
+
+### Línguas ###
+* * *
+
+- **Português**: língua materna  
+- **Inglês**: escrita, leitura e fala proeficientes  
+
+### Prêmios e Conquistas ###
+* * *
+
+- **Microsoft Coding Programing - UFPE (Março de 2015)**: 4º lugar
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
