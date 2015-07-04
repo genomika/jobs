@@ -28,8 +28,8 @@ CV
 	Lecionava algumas aulas de revisão sobre estrutura de dados como fila, pilha, heap, solução de problemas em grafos 		utilizando Dijkstra, Kruskal, Prim, programação dinâmica, entre outros. Também elaborava algumas questões para os 	alunos resolverem utilizando algum dos métodos ensinados em sala de aula.
 
 - **Monitor de Introdução a Programação: Agosto de 2013 - Novembro de 2013**  
-	Lecionava algumas aulas de revisão sobre laços, condicionais, conceito introdutórios de herança e orientação a objeto 	em Java.
-	
+	Lecionava algumas aulas de revisão sobre laços, condicionais, conceito introdutórios de herança e orientação a objeto 	em Java.  
+
 ### Habilidades e Experiências ###
 * * *
 
@@ -37,7 +37,7 @@ CV
 	- Linguagens com experiência: C++, Java, SQL/PL
 	- Linguagens básicas: Python, Haskell, HTML/CSS3, Javascript
 	- Frameworks: Django
-	- Desenvolvimento mobile: Android
+	- Desenvolvimento mobile: Android  
 
 - **Projetos**  
   
@@ -62,11 +62,4 @@ CV
 ### Prêmios e Conquistas ###
 * * *
 
-- **Microsoft Coding Programing - UFPE (Março de 2015)**: 4º lugar
-
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+- **Microsoft Coding Programing - UFPE (Março de 2015)**: 4º lugar  
