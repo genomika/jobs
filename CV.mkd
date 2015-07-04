@@ -1,13 +1,24 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Bioinformática
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+*Nome*: Victor Duarte Diniz Monteiro
+*Data de Nascimento*: 18/12/1994
+*Sexo*: Masculino
+*Telefone*: (81)9-8854-2276
+*Email*: victorddiniz@gmail.com / vddm@cin.ufpe.br
+*Endereço*: Rua Rodrigues Sete, 202, Casa Amarela, Pernambuco, CEP:52051-230
+
+Formação Acadêmica
+------------------
+
+*Graduando em Ciências da Computação*						*2013_-2017 (expectativa)*
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
