@@ -41,7 +41,7 @@ CV
 
 - **Projetos**  
   
-	*Maratona de Programação (Março de 2015 - Atualmente)*: Programa universitário de programação competitiva 		com treinos semanais de 5 horas de duração contendo questões individuais e coletivas cujo o objetivo é 	obter grande desempenho nas competições internacionais, como a [ICPC](http://icpc.baylor.edu/).  
+	*Maratona de Programação (Março de 2015 - Atualmente)*: Programa universitário de programação competitiva 		com treinos semanais de 5 horas de duração contendo questões individuais e coletivas cujo o objetivo é 	obter grande desempenho nas competições internacionais, como a [ICPC](http://icpc.baylor.edu/).  
 
 	*Programa de Educação Tutorial - PET Informática (Maio de 2014 - Atualmente)*: Programa governamental 			formado por um 	grupo de alunos com bom desempenho acadêmico que tem como objetivo incentivar a 		pesquisa acadêmica, fazendo conexões a sociedade, desenvolver a habilidade de lecionar do aluno, através 	de aulas de capacitação de informática básica e de programação, e criação de programas de extensão, que 		visam aumentar o impacto da universidade na sociedade.  
 	
