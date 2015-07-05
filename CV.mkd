@@ -51,7 +51,7 @@ CV
 
 - **Experiências de trabalho**  
 
-	*Trabalho voluntário no [CITi](http://citi.org.br/) (Novembro de 2013 - Março de 2014)*: Empresa júnios de 	TI vinculada ao Centro de Informática da UFPE, tem como objetivo oferecer experiências de mercado ao aluno da 	graduação. Trabalhei na parte de administração e finanças, preparando relatórios finaceiros, fluxo de caixa, 			precificação e elaboração de contrato. Como programador, desenvolvi o front-end de um dos serviços.  
+	*Trabalho voluntário no [CITi](http://citi.org.br/) (Novembro de 2013 - Março de 2014)*: Empresa júnior de 	TI vinculada ao Centro de Informática da UFPE, tem como objetivo oferecer experiências de mercado ao aluno da 	graduação. Trabalhei na parte de administração e finanças, preparando relatórios finaceiros, fluxo de caixa, 			precificação e elaboração de contrato. Como programador, desenvolvi o front-end de um dos serviços.  
 
 ### Línguas ###
 * * *
