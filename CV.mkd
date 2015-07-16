@@ -1,13 +1,17 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
++Estágio em Bioinformática
 
 
 CV
-==
-
-[Preencha aqui o seu cv]
+===
++*Nome*: Danilo da Silva Barbosa de Lima
++*Data de Nascimento*: 31/10/1989
++*Sexo*: Masculino
++*Telefone*: (81)985382593
++*Email*:dsbl@ecomp.poli.br
++*Endereço*: Rua Beija-Flôr, 282, Jardim Atlântico, Olinda, CEP:53050-164
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
