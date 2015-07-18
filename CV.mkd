@@ -7,7 +7,7 @@ Estágio em Bioinformática.
 CV
 ==
 
-<p style = "text-align: left ; font-size:70 "> Guilherme Melo da Silva</br>
+<p style = "text-align: left ; font-size:300% "> Guilherme Melo da Silva</br>
 Brasileiro, solteiro, 22 anos</br>
 Rua Leblon, número 55</br>
 Porto da Madeira – Recife– PE
