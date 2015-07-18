@@ -6,7 +6,8 @@ Estágio em Bioinformática.
 
 CV
 ==
-Guilherme Melo da Silva
+
+<p>Guilherme Melo da Silva</p>
 Brasileiro, solteiro, 22 anos
 Rua Leblon, número 55
 Porto da Madeira – Recife– PE
