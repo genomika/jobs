@@ -1,13 +1,43 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+Estágio em Bioinformática
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+ADEMIR BATISTA
+
+Email: ademir.bsn@gmail.com
+
+OBJETIVO
+
+Desenvolvimento de software
+
+FORMAÇÃO
+
+Graduando em Sistemas de Informação. UFRPE, conclusão 2016
+
+EXPERIÊNCIA PROFISSIONAL
+
+2010 – 2011 – Ecologic Center Ltda
+Cargo: Auxiliar administrativo
+Principais atividades: Gerencia de compra e vendas. Gestão de RH.
+
+2011-2013 – UFRPE
+Cargo: Bolsista PIBIC
+Principais atividades: Desenvolvimento e analise de software
+
+2013- 2014 – Bolsista Ciencias sem fronteiras
+Cargo: Bolsista Capes
+Principais atividades: Estudo de língua inglesa e atividades relacionados a academia
+
+INFORMAÇÕES ADICIONAIS
+
+Proativo
+Bom trabalho em equipe
+Disponibilidade para trabalhar em todos os turnos
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
