@@ -45,9 +45,9 @@ CV
 
 	*Programa de Educação Tutorial - PET Informática (Maio de 2014 - Atualmente)*: Programa governamental 			formado por um 	grupo de alunos com bom desempenho acadêmico que tem como objetivo incentivar a 		pesquisa acadêmica, fazendo conexões a sociedade, desenvolver a habilidade de lecionar do aluno, através 	de aulas de capacitação de informática básica e de programação, e criação de programas de extensão, que 		visam aumentar o impacto da universidade na sociedade.  
 	
-	*Iniciação Científica (Em aprovação)*: Pesquisa na área de bioinformática explorando o ramo de árvores 			filogenéticas. O objetivo da pesquisa é aprimorar e criar uma visualização dos algoritmos propostos 		por [Christian Baudet e Marie-France Sagot](https://www.dropbox.com/s/es4fs37rxx2l7vo/EUCALYPT.pdf?dl=0) 	e [Nicolas Wieseke, Matthias Bernt, and Martin Middendorf](https://www.dropbox.com/s/vzztrc3kvrgs9mi/unifyingParsimoniousTree.pdf?dl=0).  
+	*Iniciação Científica*: Pesquisa na área de bioinformática explorando o ramo de árvores 			filogenéticas. O objetivo da pesquisa é aprimorar e criar uma visualização dos algoritmos propostos 		por [Christian Baudet e Marie-France Sagot](https://www.dropbox.com/s/es4fs37rxx2l7vo/EUCALYPT.pdf?dl=0) 	e [Nicolas Wieseke, Matthias Bernt, and Martin Middendorf](https://www.dropbox.com/s/vzztrc3kvrgs9mi/unifyingParsimoniousTree.pdf?dl=0).  
 
-	*Bee (Em desenvolvimento)*: Aplicativo em desenvolvimento que visa oferecer um ambiente seguro e anônimo 		para a comunidade LGBT de forma que possam trocar experiências e dúvidas através de postagens e 		comentários. Lidero a parte de desenvolvimento back-end, mas também auxilio na integração do back-end com 	o mobile.  
+	*Bee*: Aplicativo em desenvolvimento que visa oferecer um ambiente seguro e anônimo 		para a comunidade LGBT de forma que possam trocar experiências e dúvidas através de postagens e 		comentários. Lidero a parte de desenvolvimento back-end, mas também auxilio na integração do back-end com 	o mobile.  
 
 - **Experiências de trabalho**  
 
