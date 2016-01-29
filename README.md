@@ -68,3 +68,26 @@ A oportunidade de aprender e ajudar no desenvolvimento de sistemas computacionai
 * Conhecimento em sistemas de controle de versão como git ou SVN
 * Noções básicas de estatística 
 * Familiar sobre conceitos de computação nas nuvens; big data; alto desempenho (hpc).
+* 
+
+Vaga para Desenvolvimento de Sistemas Web (1 Vaga)
+-------------------------------------------------------------------------------------------
+ 
+A Genomika Diagnósticos está com 1 vaga para desenvolvimento de sistemas web de nosso laboratório. Isto inclui grandes desafios em processos, biologia, bioinformática, programação e volume de dados. O nosso sistema é pioneiro no Brasil para todo o controle de fluxo de exames e amostras , incluindo bancos de dados de variantes. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.  Modalidade :  PJ + auxilio alimentação.
+
+ **Requisitos para a vaga**
+
+* Conhecimento de linguagens de programação (Java, Scala, Python, etc.)
+* Conhecimentos de bancos de dados (SQL ou NoSQL)
+* Conhecimentos em processamento e análise de bases de dados.
+* Proficiência no uso de um sistema operacional baseado em Unix (Linux ou Mac Os)
+* Se sentir à vontade com trabalho em esquipe e times multi-disciplinares;
+* Afinidade com projetos de pesquisa e inovação e desafio tecnológico;
+* Disponibilidade para 30 horas semanais presencial.
+* Experiência com ferramentas para desenvolvimento web e conhecimentos web com JQuery, Javascript, Ajax e outros.
+
+**Diferencial**
+
+* Conhecimentos e/ou experiência com ferramentas de bioinformática, em especial relacionada a análise de variantes;
+* Experiência sólida em design e arquitetura de software;
+
