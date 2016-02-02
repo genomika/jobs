@@ -1,17 +1,66 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Bioinformática
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+**Vítor Matheus Mendes Mariano**  
+vmatheus.mariano@gmail.com  
++55 (81) 99641-0080
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+**Escolaridade**: Superior Incompleto  
+**Nascimento**: 16/05/1996  
+**Sexo**: Masculino   
+**Local**: Recife, Pernambuco
+
+**Objetivo**: Vaga de Estágio em Bioinformática
+
+**Conhecimento técnico**:
+- **Domínio**:
+  - **Linguagens de programação**: PHP, JavaScript
+  - **Bancos de dados**: Relacionais (MySQL, PostgreSQL)
+  - **Infraestrutura**:
+    - **Sistemas Operacionais**: Baseados no Unix (OS X, Linux), Windows
+    - **Servidores (PaaS, IaaS)**: DigitalOcean, Amazon Web Services
+  - **Ferramentas de desenvolvimento**: Git, Travis
+  - **Outros**:
+    - **Frameworks de desenvolvimento web**: Laravel, AngularJS, Bootstrap, Foundation, Node.js
+- **Conhecimento**:
+    - **Linguagens de programação**: Python, Ruby, Scala, Haskell
+    - **Bancos de dados**: NoSQL (MongoDB, Neo4J)
+    - **Técnicas de desenvolvimento**: TDD, CI, Design Patterns
+
+**Formação**:
+- **Design, audiovisual, pós-produção, 3D**  
+  **Instituição**: SAGA - School of Art, Game and Animation  
+  **Período**: 08/2010 a 07/2013
+
+- **Bacharelado em Engenharia Mecânica**  
+  **Instituição**: UPE - Universidade de Pernambuco  
+  **Período**: 08/2014 a 06/2015 (incompleto)
+
+**Idiomas**:
+- **Inglês**: Avançado
+
+**Experiência profissional**:
+- **Estagiário**  
+  **Empresa**: SAGA - School of Art, Game and Animation  
+  **Período**: 08/2011 a 11/2011
+
+- **Desenvolvedor Web Full-Stack Freelancer**  
+  **Período**: 2011 - atualmente
+
+**Social**:
+- **Blog pessoal**: http://matheus-mariano.tumblr.com/
+- **GitHub**: https://github.com/matheusmariano
+- **LinkedIn**: https://goo.gl/32TCZ3
+- **Portfolio**: https://www.instagram.com/matheuswebdev/
+- **YouTube**: https://www.youtube.com/channel/UCkrZcBncWI7x0XtPKwBQEiQ
+
+**Resumo**:  
+Meu nome é Matheus Mariano. Tenho 19 anos e atualmente sou Desenvolvedor Web Full-Stack Freelancer, mas aproveito a juventude para aprender quase tudo que envolve tecnologia. Já estudei design, engenharia, programação, servidores, que me rendeu bases em matemática, física, química, biologia, ciências humanas, computação, empreendedorismo e ainda assim estou em busca de mais coisas para aprender. O próximo passo é trabahar com grandes volumes de dados.
+
+Também aproveito algum tempo livre para lessionar no meu canal do YouTube.
