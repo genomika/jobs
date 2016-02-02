@@ -16,7 +16,7 @@ Contatos: vbas@cin.ufpe.br,
 
 
 ######Objetivo:
-* Desenvolver funções e também ter experiência na área da computação.
+* Aprender a ganhar experiência na área da computação.
 
 
 ######Formação:
@@ -27,6 +27,9 @@ Contatos: vbas@cin.ufpe.br,
 * 2014-2017*: Graduação atual em andamento em engenharia da computação.(4º período 2016.1)
 
 * 2015.2: Monitor da cadeira de algorítimos e estrutura de dados
+
+* Ingles avançado
+
 
 
 ######Linguagens:
