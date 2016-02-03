@@ -1,7 +1,7 @@
-#Vaga
+Vaga
 ===
 ###Estágio em Bioinformática
-#CV
+CV
 ===
 ###Humberto Alves Wanderley Neto
 
