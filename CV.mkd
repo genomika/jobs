@@ -1,7 +1,8 @@
 Vaga
 ====
 
-Estágio em Bioinformática
+Estágio em Bioinformática  
+Desenvolvimento de Sistemas Web
 
 
 CV
@@ -16,7 +17,9 @@ vmatheus.mariano@gmail.com
 **Sexo**: Masculino   
 **Local**: Recife, Pernambuco
 
-**Objetivo**: Vaga de Estágio em Bioinformática
+**Objetivos**:
+- Vaga de Estágio em Bioinformática
+- Desenvolvimento de Sistemas Web
 
 **Conhecimento técnico**:
 - **Domínio**:
