@@ -1,17 +1,76 @@
-Vaga
-====
+#Vaga
+###Estágio em Bioinformática
+#CV
+###Humberto Alves Wanderley Neto
 
-[Preencha aqui a vaga que você pretende]
+Brasileiro, Solteiro, 24 anos
 
+Rua Vereador José Arnor da Silva, 131, Bairro Novo
 
-CV
-==
+Carpina – PE
 
-[Preencha aqui o seu cv]
+Fone(s): (81) 3621-3101/ 3621-6141
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+Cell: (81) 9920-0152
+
+e-mail: [hawn@cin.ufpe.br](mailto:hawn@cin.ufpe.br)
+
+####Objetivo
+-------------
+        Buscar se aperfeiçoar cada vez mais como um futuro engenheiro, utilizando a tecnologia como principal 
+        ferramenta para ajudar as pessoas, através de técnicas e desenvolvimento de ferramentas para captura 
+        e análise de dados, obtendo resultados que podem tornar o mundo um lugar melhor.
+        
+####Formação
+-------------
+* __Graduando em Engenharia da Computação - 7º Período__ 
+
+        Universidade Federal de Pernambuco – UFPE – Recife – (Janeiro/2013 – Dezembro/2018).
+
+* __Curso Técnico em Eletrônica Industrial__
+
+        Instituto Federal de Educação Tecnológica de Pernambuco – IFPE – Recife - (Agosto/2012).
+
+####Idioma
+-------------
+* __Inglês – PROLINFO - UPE – Nazaré - PE__
+
+        Leitura avançada, escrita intermediária, conversação básica. 
+
+####Qualificações
+-------------
+* __Montagem e Manutenção de Micro:__
+
+        Genius Informática, 6 meses(Carpina - PE, conclusão em 2008). 
+* __Linguagens de programação conhecidas:__
+
+        Python, C/C++, JAVA SE, SQL, System Verilog. 
+* __Ferramentas:__ 
+
+        Github, Unix/GNU Linux, Code::Blocks, Eclipse, Altera Quartus II, SQL Plus (Oracle), Android Studio, 
+        Blender 3d.
+* __Conhecimentos gerais:__ 
+
+        Infra-estrutura de hardware/software e comunicação, Algoritimos e Estruturas de dados, Princípios de 
+        Engenharia de software.
+
+####Experiência
+-------------
+* __Intel Embedded Systems Competition 2015 – Golden Park Hotel - Foz do Iguaçu - PR (03/11/2015 – 06/11/2015).__ 
+
+        Participou da competição Intel de sistemas embarcados, liderando sua equipe no desenvolvimento de um 
+        sistema para auxiliar pessoas com deficiência visual no embarque e desembarque de transportes públicos. 
+        O projeto foi um dos finalistas e foi exibido no Simpósio Brasileiro de Sistemas Embarcados 2015.
+
+* __Estágio em eletro-mecânica e Organização da Manutenção – Alpargatas S.A – Carpina – PE (01/12/2011 – 31/07/2012).__ 
+
+        Participou do programa de estágio da empresa, auxiliando no controle da manutenção nas máquinas e 
+        equipamentos bem como alocação de pessoal para escalas de trabalho inteligentes e implantação de métodos 
+        para aumento de produtividade, como o programa 5S.
+
+####Informações Adicionais
+------------
+* Habilitação AB 
+* Habilidades de Comunicação  e trabalho em equipe 
+* Pontualidade, autodidata 
+* Foco em cumprimento de prazos
