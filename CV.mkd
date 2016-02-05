@@ -12,6 +12,7 @@ Graduação em Eng. da Computação CIn-UFPE
 Conhecimentos
 -------------
 * Conhecimentos em algortimos para Bioinformática (https://github.com/douglasjfm/BioCompP1)
+* Conhecimentos em algoritmos estatisticos (Machine learning)
 
 Experiênia
 ----------
@@ -21,7 +22,7 @@ Experiênia
 * Java
 * Objective C
 * Prototipação em Matlab/Simulink.
-* Desenvolvimento WEB (PHP, Javascript, HTML)
+* Desenvolvimento WEB (PHP, Javascript, HTML, MySQL)
 
 Outras Infos
 ------------
