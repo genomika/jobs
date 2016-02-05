@@ -13,10 +13,13 @@ Conhecimentos
 -------------
 * Conhecimentos em algortimos para Bioinformática (https://github.com/douglasjfm/BioCompP1)
 
-Experienia
+Experiênia
 ----------
 
-* Experiencia em Desenvolvimento em ambiente Windows, Linux e MAC OS.
+* Experiência em desenvolvimento nos ambientes Windows, Linux e MAC OS
+* ANSI C
+* Java
+* Objective C
 * Prototipação em Matlab/Simulink.
 * Desenvolvimento WEB (PHP, Javascript, HTML)
 
