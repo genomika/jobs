@@ -1,17 +1,27 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+Estágio em Bioinformática
+-------------------------
 
 CV
 ==
+Graduação em Eng. da Computação CIn-UFPE
+----------------------------------------
 
-[Preencha aqui o seu cv]
+Conhecimentos
+-------------
+* Conhecimentos em algortimos para Bioinformática (https://github.com/douglasjfm/BioCompP1)
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+Experienia
+----------
+
+* Experiencia em Desenvolvimento em ambiente Windows, Linux e MAC OS.
+* Prototipação em Matlab/Simulink.
+* Desenvolvimento WEB (PHP, Javascript, HTML)
+
+Outras Infos
+------------
+
+* Lê e escreve bem em inglês.
+* linkedIn: https://www.linkedin.com/in/douglasjfm
