@@ -9,7 +9,7 @@ Tenho preferência pela vaga de Estágio em Bioinformática.
 CV
 ==
 
-## Rodrigo Lopes de Carvalho
+### Rodrigo Lopes de Carvalho
 Recife, Pernambuco  
 [rodrigo@rodrigo.lc](mailto:rodrigo@rodrigo.lc)
 
@@ -40,20 +40,23 @@ Experiência Profissional
 	* Auxiliou no desenvolvimento de aplicativos mobile para a plataforma Blackberry 10.
 	* Auxiliou desenvolvedores locais no *port* de aplicativos Android para a plataforma Blackberry 10.
 
-* ### Educação
-	* Universidade Federal de Pernambuco, Recife, Brazil — Ciência da Computação, 2012 —Corrente.
-	* University of Guelph, Guelph, Ontario — Ciência da Computação, 2014—2015,
-	Intercâmbio pelo programa Ciências sem Fronteiras.
-	* Universidade Federal de Pernambuco, Recife, Brazil — Engenharia da Computação, 2011—2012.
+Educação
+--------
 
-* ### Outras Experiências
+* Universidade Federal de Pernambuco, Recife, Brazil — Ciência da Computação, 2012 —Corrente.
+* University of Guelph, Guelph, Ontario — Ciência da Computação, 2014—2015,
+Intercâmbio pelo programa Ciências sem Fronteiras.
+* Universidade Federal de Pernambuco, Recife, Brazil — Engenharia da Computação, 2011—2012.
 
-	* Monitor Chefe — Infraestrutura de Software — UFPE — 2013
-		* Liderou um time de 15 monitores na disciplina Infraestrutura de Software na UFPE.
-		* Coordenou a elaboração e implementação do projeto de programação pelos monitores.
-	* Monitor — Infraestrutura de Software — UFPE — 2012—2013
-		* Co-supervisionou um total de 150+ alunos matriculados na disciplina Infraestrutura de Software na UFPE.
-		* Trabalho envolvia ensino de programação, formulação e avaliação de projetos e trabalhos em C/C++ na plataforma Linux.
-	* Monitor — Introdução à Programação — UFPE — 2011—2013
-		* Co-supervisionou um total de 200+ alunos matriculados na disciplina Infraestrutura de Software na UFPE.
-		* Trabalho envolvia ensino de programação, formulação e avaliação de projetos de trabalhos em C.
+Outras Experiências
+-------------------
+
+* Monitor Chefe — Infraestrutura de Software — UFPE — 2013
+	* Liderou um time de 15 monitores na disciplina Infraestrutura de Software na UFPE.
+	* Coordenou a elaboração e implementação do projeto de programação pelos monitores.
+* Monitor — Infraestrutura de Software — UFPE — 2012—2013
+	* Co-supervisionou um total de 150+ alunos matriculados na disciplina Infraestrutura de Software na UFPE.
+	* Trabalho envolvia ensino de programação, formulação e avaliação de projetos e trabalhos em C/C++ na plataforma Linux.
+* Monitor — Introdução à Programação — UFPE — 2011—2013
+	* Co-supervisionou um total de 200+ alunos matriculados na disciplina Infraestrutura de Software na UFPE.
+	* Trabalho envolvia ensino de programação, formulação e avaliação de projetos de trabalhos em C.
