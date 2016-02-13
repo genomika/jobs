@@ -68,7 +68,6 @@ A oportunidade de aprender e ajudar no desenvolvimento de sistemas computacionai
 * Conhecimento em sistemas de controle de versão como git ou SVN
 * Noções básicas de estatística 
 * Familiar sobre conceitos de computação nas nuvens; big data; alto desempenho (hpc).
-* 
 
 Vaga para Desenvolvimento de Sistemas Web (1 Vaga)
 -------------------------------------------------------------------------------------------
