@@ -1,17 +1,63 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+* Estágio em Bioinformática
+* Desenvolvimento de Sistemas Web
 
+Tenho preferência pela vaga de Estágio em Bioinformática.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+### Rodrigo Lopes de Carvalho
+Recife, Pernambuco  
+[rodrigo@rodrigo.lc](mailto:rodrigo@rodrigo.lc)
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+Estudante de Ciência da Computação, Recifense, viciado em Linux e Matemática.
+
+Habilidades
+-----------
+
+* Profunda familiaridade com ambientes Linux.
+* Fluência em Inglês (Nível C2 pelo [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels))
+* Experiência com bancos de dados PostgreSQL e MySQL.
+* 3 anos de experiência em desenvolvimento C/C++.
+* Experiência em scripting com Bash e Python.
+* Experiência com desenvolvimento de APIs REST.
+* Experiência com desenvolvimento Web.
+* Experiência com desenvolvimento Mobile com Phonegap.
+* Experiência com ferramentas de controle de versão (Git e SVN).
+
+Experiência Profissional
+------------------------
+
+* ### Engenheiro de Infraestrutura, Eramo Software; Recife, Pernambuco — 2014
+	* Automatizou o back-up de bancos de dados PostgreSQL de produção para o Amazon S3.
+	* Integrou o SGP, sistema de gerenciamento de projetos da empresa, com ferramentas externas, como Twilio, Hipchat, e instâncias Redmine remotas.
+	* Contribuiu para o desenvolvimento do FaturaSimples, uma ferramenta de automação de cobranças eletrônicas, e emissão de notas fiscais eletrônicas.
+	* Escreveu o módulo de documentação do SGP, permitindo que a documentação em Markdown e código dos softwares desenvolvidos pudesse ser visualizada no sistema.
+
+* ### Desenvolvedor, Blackberry Tech Center Recife; Recife, Pernambuco — 2013
+	* Auxiliou no desenvolvimento de aplicativos mobile para a plataforma Blackberry 10.
+	* Auxiliou desenvolvedores locais no *port* de aplicativos Android para a plataforma Blackberry 10.
+
+Educação
+--------
+
+* Universidade Federal de Pernambuco, Recife, Brazil — Ciência da Computação, 2012 —Corrente.
+* University of Guelph, Guelph, Ontario — Ciência da Computação, 2014—2015,
+Intercâmbio pelo programa Ciências sem Fronteiras.
+* Universidade Federal de Pernambuco, Recife, Brazil — Engenharia da Computação, 2011—2012.
+
+Outras Experiências
+-------------------
+
+* Monitor Chefe — Infraestrutura de Software — UFPE — 2013
+	* Liderou um time de 15 monitores na disciplina Infraestrutura de Software na UFPE.
+	* Coordenou a elaboração e implementação do projeto de programação pelos monitores.
+* Monitor — Infraestrutura de Software — UFPE — 2012—2013
+	* Co-supervisionou um total de 150+ alunos matriculados na disciplina Infraestrutura de Software na UFPE.
+	* Trabalho envolvia ensino de programação, formulação e avaliação de projetos e trabalhos em C/C++ na plataforma Linux.
+* Monitor — Introdução à Programação — UFPE — 2011—2013
+	* Co-supervisionou um total de 200+ alunos matriculados na disciplina Infraestrutura de Software na UFPE.
+	* Trabalho envolvia ensino de programação, formulação e avaliação de projetos de trabalhos em C.
