@@ -44,50 +44,5 @@ se identifiquem com a vaga em interesse.
 
 Vagas Disponíveis
 =================
-
-Estágio em Bioinformática (1 Vaga)
-------------------------------------
-
-A oportunidade de aprender e ajudar no desenvolvimento de sistemas computacionais de auxílio à análise e processamento de  nossos testes genéticos. Isto inclui atividades de programação, manutenção, documentação e suporte em nosso setor e se sentir à vontade em trabalhar com problemas complexos que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
-
-**Requisitos para a vaga**
-
-* Graduando em alguma área de computação ou biologia ou biomedicina ou engenharia biomédica (nestes 2 últimos casos ter experiência comprovada com programação).
-* Ter disponibilidade para 30hrs semanal presencial.
-* Proficiência em algoritmos, estrutura de dados e arquitetura de sistemas. 
-* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
-* Familiar com ambiente unix/linux.
-* Ter conhecimento em pelo menos 1 linguagem de script (ex: shell, python, ruby, perl, etc..)
-* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
-
-**Requisitos desejáveis**
-
-* Afinidade ou conhecimentos em biologia, genética ou bioinformática;
-* Experiência com programação web 
-* Queries SQL e NOSQL
-* Conhecimento em sistemas de controle de versão como git ou SVN
-* Noções básicas de estatística 
-* Familiar sobre conceitos de computação nas nuvens; big data; alto desempenho (hpc).
-* 
-
-Vaga para Desenvolvimento de Sistemas Web (1 Vaga)
--------------------------------------------------------------------------------------------
  
-A Genomika Diagnósticos está com 1 vaga para desenvolvimento de sistemas web de nosso laboratório. Isto inclui grandes desafios em processos, biologia, bioinformática, programação e volume de dados. O nosso sistema é pioneiro no Brasil para todo o controle de fluxo de exames e amostras , incluindo bancos de dados de variantes. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.  Modalidade :  PJ + auxilio alimentação.
-
- **Requisitos para a vaga**
-
-* Conhecimento de linguagens de programação (Java, Scala, Python, etc.)
-* Conhecimentos de bancos de dados (SQL ou NoSQL)
-* Conhecimentos em processamento e análise de bases de dados.
-* Proficiência no uso de um sistema operacional baseado em Unix (Linux ou Mac Os)
-* Se sentir à vontade com trabalho em esquipe e times multi-disciplinares;
-* Afinidade com projetos de pesquisa e inovação e desafio tecnológico;
-* Disponibilidade para 30 horas semanais presencial.
-* Experiência com ferramentas para desenvolvimento web e conhecimentos web com JQuery, Javascript, Ajax e outros.
-
-**Diferencial**
-
-* Conhecimentos e/ou experiência com ferramentas de bioinformática, em especial relacionada a análise de variantes;
-* Experiência sólida em design e arquitetura de software;
-
+Sem vagas no momento. Fique de olho nesta página! 
