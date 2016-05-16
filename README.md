@@ -45,4 +45,24 @@ se identifiquem com a vaga em interesse.
 Vagas Disponíveis
 =================
  
-Sem vagas no momento. Fique de olho nesta página! 
+Estágio em T.I e Devops (1 Vaga)
+------------------------------------
+
+A oportunidade de aprender e ajudar no desenvolvimento, gestão e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de programação, manutenção, suporte, documentação e suporte em nosso setor e ajudar ao time de bioinformática/desenvolvimento em resolver problemas de gestão de grandes massas de dados em servidores Unix/Linux local e nas nuvens. Desejável se sentir à vontade em trabalhar com problemas que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
+
+**Requisitos para a vaga**
+
+* Graduando em alguma área de computação.
+* Ter disponibilidade para 30hrs semanal presencial.
+* Proficiência em  arquitetura de sistemas, linux e desenvolvimento de scripts.
+* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
+* Familiar com ambiente unix/linux.
+* Ter conhecimento em pelo menos 1 linguagem de script (ex: shell, python, ruby, perl, etc..)
+* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
+
+**Requisitos desejáveis**
+
+* Experiência com programação web 
+* Queries SQL e NOSQL
+* Conhecimento em sistemas de controle de versão como git ou SVN
+* Familiar sobre conceitos de computação nas nuvens; big data; alto desempenho (hpc).
