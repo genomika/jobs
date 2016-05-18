@@ -1,13 +1,51 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em T.I e Devops
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+HÉLIO FERREIRA DA SILVA JUNIOR
+	Linkedin: https://br.linkedin.com/in/hélio-ferreira-da-silva-junior-a114b0105
+	heliofsjr18@hotmail.com
+	(81) 9 9929-9757 - PESSOAL/ (81) 3437-4868 -  RESIDÊNCIAL
+        RUA: NOVENTA E NOVE, N° 297; MARANGUAPE 2, PAULISTA - PE;
+ 
+IDIOMA: INGLÊS, ESCREVE E COMPREENDE BEM; FALA RAZOAVELMENTE BEM
+
+RESUMO
+
+Atualmente estudando Análise e Desenvolvimento de Sistemas na Unibratec, totalmente focado na área e envolvido com projetos de desenvolvimento de nível acadêmico. Compreende e lê bem em inglês, treinando a conversação. Técnico em Eletromecânica formado pelo Senai com 2 anos e 4 meses de experiencia em funções da área. 8 meses de experiências paralelas trabalhando com administração de ocorrências policiais na Secretaria de Defesa Social.
+
+OBJETIVO
+Preenchimento de vaga de estágio em T.I.
+
+EDUCAÇÃO
+	Superior em Análise e Desenvolvimento de Sistemas (Cursando)
+		Instituto Brasileiro de Tecnologia – Unibratec	2015 – 2018
+	Técnico em Eletromecânica (Concluído)
+		Serviço Nacional de Aprendizagem Industrial – Senai 	2012 – 2014
+		
+PROJETO PESSOAL
+	ScorePerQuestion: Trata-se de um App que tem como objetivo principal aumentar a dinâmica de aprendizado e a competitividade de alunos que compartilham da mesma sala de aula em qualquer curso ou área de formação. O projeto é baseado em um sistema de pontuação sendo gerado através de perguntas e respostas criadas pelos próprios estudantes, classificando-os em formato de Ranking de acordo com a sua produtividade na aplicação.
+	OBS: Ainda está em fase de implementação.
+	
+EXPERIÊNCIA PROFISSIONAL
+	Contrato Técnico Eletromecânico 
+		Consórcio RNEST/CONEST (2 anos)  2012 – 2014.
+	Administração e atendimento de ocorrências policiais
+		Secretaria de Defesa Social (8 meses) Jan, 2013 – Set, 2013.
+	Inspetor de qualidade no recebimento de materiais
+		Fiat Chrysler Automóveis (4 Meses) Ago, 2014 – Nov, 2014.
+		
+SKILLS E CONHECIMENTOS
+
+•	Conhecimento em Orientação a Objetos, design pattern, programação em Java e C#.
+•	Utilização das ferramentas: Eclipse IDE, Visual Studio e NetBeans.
+•	Desenvolvimento para Banco de dados na linguagem SQL, e experiência acadêmica com o SQL server.
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
