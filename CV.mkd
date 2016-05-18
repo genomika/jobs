@@ -33,7 +33,11 @@ EDUCAÇÃO
 		
 PROJETO PESSOAL
 
-	ScorePerQuestion: Trata-se de um App que tem como objetivo principal aumentar a dinâmica de aprendizado e a competitividade de alunos que compartilham da mesma sala de aula em qualquer curso ou área de formação. O projeto é baseado em um sistema de pontuação sendo gerado através de perguntas e respostas criadas pelos próprios estudantes, classificando-os em formato de Ranking de acordo com a sua produtividade na aplicação.
+	ScorePerQuestion: Trata-se de um App que tem como objetivo principal aumentar a dinâmica de aprendizado e a competitividade de
+	alunos que compartilham da mesma sala de aula em qualquer curso ou área de formação. O projeto é baseado em um sistema de
+	pontuação sendo gerado através de perguntas e respostas criadas pelos próprios estudantes, classificando-os em formato de
+	Ranking de acordo com a sua produtividade na aplicação.
+	
 	OBS: Ainda está em fase de implementação.
 	
 EXPERIÊNCIA PROFISSIONAL
@@ -48,6 +52,9 @@ EXPERIÊNCIA PROFISSIONAL
 SKILLS E CONHECIMENTOS
 
 •	Conhecimento em Orientação a Objetos, design pattern, programação em Java e C#.
+
 •	Utilização das ferramentas: Eclipse IDE, Visual Studio e NetBeans.
+
 •	Desenvolvimento para Banco de dados na linguagem SQL, e experiência acadêmica com o SQL server.
+
 
