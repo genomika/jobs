@@ -10,7 +10,7 @@ CV
 <h1>Thomas Leonardo</h1>
 <h3>Telefone: (81)999904143 Email: thomas.LRP@gmail.com</h3>
 
-<h4>Eperiência</h4>
+<h4><strong>Experiência</strong></h4>
 <ul>
 	<li>Experiência com Python, orientação a objetos e django,</li>
 	<li>Implementar algorítmos e estruturas de dados como mergesort, busca binária e outros que constam no HackerRank, link para meu perfil: https://www.hackerrank.com/Chirp,</li>
@@ -18,5 +18,9 @@ CV
 	<li>Experiência com GIT e GitHub,</li>
 	<li>Conhecimento em linguagens web como HTML, CSS e JavaScript,</li>
 	<li>Conhecimento em Estática, Sistemas Operacionais e Redes através das matérias na faculdade e estudos a parte,</li>
-	<li>Graduação em Ciência da Computação, expectativa de conclusão em 2019.1</li>
 <ul>
+
+<h4><strong>Educação</strong></h4>
+<ul>
+	<li>Graduação em Ciência da Computação, expectativa de conclusão em 2019.1</li>
+</ul>
