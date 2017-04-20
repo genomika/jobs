@@ -18,6 +18,7 @@ CV
 	<li>Experiência com GIT e GitHub,</li>
 	<li>Conhecimento em linguagens web como HTML, CSS e JavaScript,</li>
 	<li>Conhecimento em Estática, Sistemas Operacionais e Redes através das matérias na faculdade e estudos a parte,</li>
+	<li>Fluente em inglês</li>
 </ul><br>
 
 <h4><strong>Educação</strong></h4>
