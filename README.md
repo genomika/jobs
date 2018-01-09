@@ -16,6 +16,9 @@ Em nosso setor de T.I e bioinformática trabalhamos com desenvolvimento de siste
 
 [![ScreenShot](http://i1.ytimg.com/vi/pKA83K7sfS8/maxresdefault.jpg)](https://www.youtube.com/watch?v=pKA83K7sfS8)
 
+[![ScreenShot](https://image.ibb.co/kUuJE6/maxdefault2.png)](https://vimeo.com/160609222)
+
+
 
 Como submeter seu curriculo para uma das vagas da Genomika ?
 ===============================================
