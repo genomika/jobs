@@ -56,7 +56,7 @@ Vagas Disponíveis
 Estágio em T.I e Administração de Sistemas (1 Vaga)
 ------------------------------------
 
-A oportunidade de aprender e ajudar no gestão, suporte e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de manutenção, suporte, documentação e suporte em nosso setor e ajudar aos colaboradores da Genomika em resolver problemas de gestão de sistemas que envolvem processos laboratoriais para execução de exames e auxiliar bioinformatas na manipulaço de grandes massas de dados em servidores Unix/Linux local e nas nuvens. Desejável se sentir à vontade em trabalhar com problemas de gestão e administração de sistemas. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
+A oportunidade de aprender e ajudar no gestão, suporte e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de manutenção, suporte, documentação e suporte em nosso setor e ajudar aos colaboradores da Genomika em resolver problemas de gestão de sistemas que envolvem processos laboratoriais para execução de exames e auxiliar bioinformatas na manipulação de grandes massas de dados em servidores Unix/Linux local e nas nuvens. Desejável se sentir à vontade em trabalhar com problemas de gestão e administração de sistemas. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
 
 **Requisitos para a vaga**
 
