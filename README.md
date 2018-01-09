@@ -65,7 +65,6 @@ A oportunidade de aprender e ajudar no gestão, suporte e manutenção de nossos
 * Proficiência em  arquitetura de sistemas, linux e desenvolvimento de scripts.
 * Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
 * Familiar com ambiente unix/linux.
-* Ter conhecimento em pelo menos 1 linguagem de script (ex: shell, python, ruby, perl, etc..)
 * Se sentir à vontade em um ambiente de trabalho em equipe; proativo; boa capacidade de comunicação
 
 
