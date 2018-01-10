@@ -12,7 +12,7 @@ Conheça a Genomika
 
 A Genomika situa-se em Recife, Pernambuco uma das capitais que posuem um dos maiores pólos tecnológicos do Brasil em conjunto com um dos mais modernos pólos clínicos do Norte-Nordeste. No coração do centro clínico do Recife, o laboratório atende hospitais, laboratórios parceiros e pacientes de todo o Brasil contando com mais de 300 tipos de testes genéticos disponíveis no mercado. Atualmente, a Genomika já possui posto de coleta próprio em São Paulo , Capital e com metas de expansão em mais estados pelo país. 
 
-Desde 2017, a Genomika iniciou uma parceria com Hospital Israelita Albert Einstein (HIAE), um dos maiores hospitais do país para oferecer seus exames genéticos utilizando dos conhecimentos, tradição e qualidade do HIAE, tornando a marca Genomika-Einstein.
+Desde 2017, a Genomika iniciou uma parceria com Hospital Israelita Albert Einstein (HIAE), um dos maiores hospitais do país para oferecer seus exames genéticos utilizando dos conhecimentos, tradição e qualidade do HIAE, tornando-se um dos laboratórios mais reconhecidos pelo país.
 
 Em nosso setor de T.I e bioinformática trabalhamos com desenvolvimento de sistemas de suporte ao diagnóstico de doenças, análises de dados e ferramentas de gestão laboratorial hospedados em servidores de alto desempenho local e remoto fora do Brasil.
 
