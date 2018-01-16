@@ -1,17 +1,55 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em T.I e Administração de Sistemas
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Jorge Candeias do Nascimento
+Rua Cruz Macedo,148 - Várzea– Recife - Pernambuco – PE – CEP 50810-030
+Telefone: (81) 986445360 - E-Mail: elntele@gmail.com
+Idade: 40 Anos - Estado Civil: Solteiro
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+Objetivo: Estágio no setor de tecnologia da informação.
+
+Sumário
+
+●	Desenvolvedor Java com experiência acadêmica.
+
+Conhecimentos Técnicos
+
+●	Ferramentas: Eclipse, Android Studio, Sublime Text 3, Bizagi Modeler, Astah, Arduino IDE, pgAdmin III, MySQL Workbench, GitHub.
+●	Sistema Operacional: Windows, Ubunto (Nível iniciante). 
+●	Sistemas embarcados: Arduino, eletrônica.
+●	Linguagens: Java, Python, PHP, C, Assembly e SQL.
+●	Frameworks: Jmetal, JUnit, Bootstrap, Angular JS.
+●	Banco de dados: MySQL e PostgreSQL.
+●	Web: HTML, CSS, JavaScript.
+
+Formação Acadêmica 
+•	Técnico em eletrônica -  Escola Técnica Federal de Pernambuco (Atual IFPE) – Segundo semestre de 2000.
+
+●	Bacharelado em Ciência da Computação – Universidade Federal Rural de Pernambuco (UFRPE) – Em curso – 12º período. Conclusão prevista para o segundo semestre de 2018.
+
+Disponibilidade
+
+•	Diurna:  Das 8:00 às 17:00.
+
+Experiência Profissional 
+
+●	Junho/1998 – Dias atuais – Telecomunicações, várias empresas.
+o	Atuando como técnico no ramo de eletrônica/Telecomunicações com manutenção e configuração de centrais telefônicas de grande porte, além de sistemas de transmissão. Atualmente em horário diferenciado, me deixando com disponibilidade entre as 8:00 e as 17:00.
+
+OBS.: Forte interesse em migrar da área de telecomunicações para engenharia de software.
+●	Junho/2011 - Dezembro/2011 – Monitor da Disciplina de Introdução a Informática.
+o	Auxilio ao professor na preparação de aulas e apoio aos alunos em resolução de listas de exercício. 
+Qualificações e Atividades Complementares 
+
+●	Inglês Beginner- SENAC.
+●	Participação do Business Process Management Day Pernambuco (BPM- Day Pernambuco) no Teatro Luiz Mendonça / PE. Carga horária: 9 horas.
+●	Participação curso de Angular JS da Semana da Computação 2016 (SECOMP) na Universidade Federal Rural de Pernambuco(UFRPE) / PE. Carga horária: 9 horas.
+OBS.: escrevendo TCC com algoritmos evolucionários multiobjetivos, Aplicando o NSGAIII em evoluções de redes de Fibra óptica.
+perfil no linkedin: www.linkedin.com/in/jorge-candeias-92467231
+
