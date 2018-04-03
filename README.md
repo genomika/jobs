@@ -34,7 +34,7 @@ Acompanhe esta página em nosso repositório do github, sempre pode aparecer nov
 * No seu fork, preencha o arquivo cv.mkd com seu currículo;
 * Não esqueça de indicar a vaga que você escolheu;
 * Faça um pull request.
-* Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Pode enc seu CV (ainda especificando a vaga) para [curriculos@genomika.com.br](curriculos@genomika.com.br).
+* Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Pode enc seu CV (ainda especificando a vaga) para [jobsti@genomika.com.br](jobsti@genomika.com.br).
 
 Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
 vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
