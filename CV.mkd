@@ -1,11 +1,27 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+**Estágio em Software Quality Assurance (SQA) e Gestão de Requisitos**
 
 
 CV
 ==
+
+# Rodrigo Luiz Tomio Ogava
+
+*rodrigo.ogava@gmail.com*
+
+*+55 (81) 99789-0765*
+
+## Acadêmico
+
+* 2014 - Presente: **Engenharia Biomédica - Universidade Federal de Pernabuco (UFPE), Recife - PE**
+
+## Objetivo
+
+Enriquecer minha formação de engenheiro através do contato com profissionais qualificados, além da possibilidade de conhecer as diversas áreas de atuação da engenharia biomédica.
+
+
 
 [Preencha aqui o seu cv]
 
