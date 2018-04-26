@@ -15,15 +15,31 @@ CV
 
 ## Acadêmico
 
-* 2014 - Presente: **Engenharia Biomédica - Universidade Federal de Pernabuco (UFPE), Recife - PE**
+* **2014 - Presente:** Engenharia Biomédica - Universidade Federal de Pernabuco (UFPE), Recife - PE
 
 ## Objetivo
 
-Enriquecer minha formação de engenheiro através do contato com profissionais qualificados, além da possibilidade de conhecer as diversas áreas de atuação da engenharia biomédica.
+Enriquecer minha formação de engenheiro através do contato com profissionais qualificados, além da possibilidade de conhecer as diversas áreas que um engenheiro biomédico pode atuar. Desenvolver novos conhecimentos na área da computação e bioinformática, aprendendo ferramentas que colaboram com meu crescimento profissional.
+
+## Experiências
+
+#### Bolsista de Iniciação Científica (IC) - CNPq
+
+* **2015 - Presente:** Como aluno de IC, participando de um grupo de pesquisa na área de Tomografia por Impedância Elétrica, vinculada ao Departamento de Engenharia Biomédica - UFPE. Assim, obtendo conhecimentos de computação nas áreas: algoritimos de busca, processamento de imagens e sinais (também com sinais biológicos), inteligência artificial e desenvolvimento de softwares. E conhecimentos de eletrônica com experiências laboratoriais, prototipagem, desenvolvimento e análise de circuítos eletrônicos.
+
+#### Desenvolvimento de Projetos - Projetão, CIn - UFPE
+
+* Como aluno da disciplina, desenvolvendo um projeto de aplicativo para imersão sonora voltado a incentivar a leitura de livros, onde aprendeu sobre o desenvolvimento de aplicativos para Android e trabalhou, em conjunto da equipe, usando metodologias de empreendedorismo.
+
+#### Membro do Diretório Acadêmico de Engenharia Biomédica (DACaP) - UFPE
+
+* Como Diretor-Presidente, foi eleito para atuar na representação estudantil dos alunos da graduação no ano 2017, onde desenvolveu relações com os alunos e professores do curso para resolver os principais problemas encontrados na graduação e na universidade.
+
+#### Trabalho Supervisionado/Trabalho de Conclusão de Curso (TCC) - UFPE
+
+* **Atualmente:** Como aluno da disciplina, está desenvolvendo um trabalho para o reconhecimento automático de movimentos da mão por eletromiografia (EMG) e eletroencefalografia (EEG) para jogos sérios baseados em movimento. Em conjunto com o grupo de pesquisa, está trabalhando na aquisição das bases de dados de EEG e EMG e na seleção dos atributos para o treinamento e teste dos classificadores.
 
 
-
-[Preencha aqui o seu cv]
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
