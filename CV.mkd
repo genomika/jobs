@@ -13,6 +13,8 @@ CV
 
 *+55 (81) 99789-0765*
 
+*http://lattes.cnpq.br/5358882460709391*
+
 ## Acadêmico
 
 * **2014 - Presente:** Engenharia Biomédica - Universidade Federal de Pernabuco (UFPE), Recife - PE
@@ -35,15 +37,26 @@ Enriquecer minha formação de engenheiro através do contato com profissionais 
 
 * Como Diretor-Presidente, foi eleito para atuar na representação estudantil dos alunos da graduação no ano 2017, onde desenvolveu relações com os alunos e professores do curso para resolver os principais problemas encontrados na graduação e na universidade.
 
+#### Monitor da Disciplina Processamento de Imagens - UFPE
+
+* **2017:** Como monitor da disciplina durante o semestre, participou apoiando os estudantes no desenvolvimento dos seus projetos e no aprendizado das ferramentas computacionais necessárias.
+
 #### Trabalho Supervisionado/Trabalho de Conclusão de Curso (TCC) - UFPE
 
 * **Atualmente:** Como aluno da disciplina, está desenvolvendo um trabalho para o reconhecimento automático de movimentos da mão por eletromiografia (EMG) e eletroencefalografia (EEG) para jogos sérios baseados em movimento. Em conjunto com o grupo de pesquisa, está trabalhando na aquisição das bases de dados de EEG e EMG e na seleção dos atributos para o treinamento e teste dos classificadores.
 
+## Idiomas
 
+* **Português: Nativo**
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+* **Inglês: Intermediário**
+
+## Outras Informações
+
+#### Desenvolvimento do Mapa de Risco da Genomika
+
+* Durante a disciplina Manutenção e Segurança Hospitalar, ministrada pela professora Mariana Brayner no segundo semestre de 2017, tive a oportunidade de fazer uma visita e conhecer o trabalho desenvolvido pela Genomika. Assim, participei da elaboração do mapa de risco das dependências da empresa em conjunto com a turma.
+
+#### Interesse na área de Bioinformática
+
+* Como aluno de Engenharia Biomédica com experiência em computação pretendo explorar mais a Bioinformática fazendo uma pós-graduação na área. Assim, tenho interesse de obter mais conhecimento sobre o tema.
