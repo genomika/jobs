@@ -21,7 +21,7 @@ CV
 
 ## Objetivo
 
-Enriquecer minha formação de engenheiro através do contato com profissionais qualificados, além da possibilidade de conhecer as diversas áreas que um engenheiro biomédico pode atuar. Desenvolver novos conhecimentos na área da computação e bioinformática, aprendendo ferramentas que colaboram com meu crescimento profissional.
+Enriquecer minha formação de engenheiro através do contato com profissionais qualificados, além da possibilidade de conhecer as diversas áreas que um Engenheiro Biomédico pode atuar. Desenvolver novos conhecimentos na área da Computação e Bioinformática, aprendendo ferramentas que colaboram com meu crescimento profissional.
 
 ## Experiências
 
@@ -31,19 +31,19 @@ Enriquecer minha formação de engenheiro através do contato com profissionais 
 
 #### Desenvolvimento de Projetos - Projetão, CIn - UFPE
 
-* Como aluno da disciplina, desenvolvendo um projeto de aplicativo para imersão sonora voltado a incentivar a leitura de livros, onde aprendeu sobre o desenvolvimento de aplicativos para Android e trabalhou, em conjunto da equipe, usando metodologias de empreendedorismo.
+* **2017:** Como aluno da disciplina, desenvolvendo um projeto de aplicativo para imersão sonora voltado a incentivar a leitura de livros, onde aprendeu sobre o desenvolvimento de aplicativos para Android e trabalhou, em conjunto da equipe, usando metodologias de empreendedorismo.
 
 #### Membro do Diretório Acadêmico de Engenharia Biomédica (DACaP) - UFPE
 
-* Como Diretor-Presidente, foi eleito para atuar na representação estudantil dos alunos da graduação no ano 2017, onde desenvolveu relações com os alunos e professores do curso para resolver os principais problemas encontrados na graduação e na universidade.
+* **2017:** Como Diretor-Presidente, foi eleito para atuar na representação estudantil dos alunos da graduação no ano 2017, onde desenvolveu relações com os alunos e professores do curso para resolver os principais problemas encontrados na graduação e na universidade.
 
-#### Monitor da Disciplina Processamento de Imagens - UFPE
+#### Monitoria da Disciplina Processamento de Imagens - UFPE
 
-* **2017:** Como monitor da disciplina durante o semestre, participou apoiando os estudantes no desenvolvimento dos seus projetos e no aprendizado das ferramentas computacionais necessárias.
+* **2017:** Como monitor da disciplina durante um semestre, participou apoiando os estudantes no desenvolvimento dos seus projetos e no aprendizado das ferramentas computacionais necessárias.
 
 #### Trabalho Supervisionado/Trabalho de Conclusão de Curso (TCC) - UFPE
 
-* **Atualmente:** Como aluno da disciplina, está desenvolvendo um trabalho para o reconhecimento automático de movimentos da mão por eletromiografia (EMG) e eletroencefalografia (EEG) para jogos sérios baseados em movimento. Em conjunto com o grupo de pesquisa, está trabalhando na aquisição das bases de dados de EEG e EMG e na seleção dos atributos para o treinamento e teste dos classificadores.
+* **Presente:** Como aluno da disciplina, está desenvolvendo um trabalho para o reconhecimento automático de movimentos da mão por eletromiografia (EMG) e eletroencefalografia (EEG) para jogos sérios baseados em movimento. Em conjunto com o grupo de pesquisa, está trabalhando na aquisição das bases de dados de EEG e EMG e na seleção dos atributos para o treinamento e teste dos classificadores.
 
 ## Idiomas
 
