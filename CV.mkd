@@ -1,17 +1,48 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Bioinformática
 
 
 CV
-==
+  
+PAULO HENRIQUE CALADO AOUN  
 
-[Preencha aqui o seu cv]
+Dados pessoais:  
+ Data de nascimento  12 / 03/1994                                              Sexo: masculino  
+Local : Recife / Pernambuco                          
+Estado civil: Solteiro  
+Endereço: Av.Bernardo Vieira de Melo 1800   
+CEP: 54410010  
+E-mail: paulo_calado@live.com  
+Telefone: (81)3094-6401                Celular: (81)99913-7489  
+  
+Formação:   
+Cursando Bacharelado em Ciência da Computação pela Universidade Federal Rural de Pernambuco(UFRPE) 6° Período. (Turno Vespertino)  
+  
+Conhecimentos:  
+Linguagem C;   
+Programação Orientada a Objeto;  
+Linguagem Java;  
+Android;
+Engenharia de Software; 
+Plataforma BPMN; 
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+  
+  
+Idiomas:  
+  
+Inglês avançado (General Professional Proficiency ILR level 3); 
+Intercâmbio de 3 meses na Flórida (EUA) 
+    
+  
+Informações Adicionais:  
+  
+Achiever no Programa Miniempresa da Junior Achievement; 
+Certificado em programação PHP pelo Citi (Miniempresa do Cin-UFPE). 
+
+
+Experiência:
+Experiência de 6 meses (julho/2014 - fevereiro/2015) no projeto E-fisco da Secretaria da Fazenda do Estado de Pernambuco, onde trabalhei com as tecnologias Java, Javascript e SQL.
+
+
