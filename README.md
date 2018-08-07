@@ -53,4 +53,67 @@ se identifiquem com a vaga em interesse.
 Vagas Disponíveis
 =================
 
-Sem vagas no momento, fique de olho!
+Técnico para área de infra-estrutura e redes de computadores (1 Vaga)
+------------------------------------
+
+A oportunidade de auxiliar no desenvolvimento, gestão e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de manutenção, suporte, documentação em nosso setor para operação de redes, firewall e computadores.
+
+Isto inclui atividades de monitoramento de infra-estrutura de redes, suporte para melhorias da infra-estrutura de máquinas e sistemas operacionais instalados. Suporte ao time técnico do laboratório para resolução de problemas de máquinas laboratoriais e sistemas.
+
+Desejável se sentir à vontade em trabalhar com problemas que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
+
+**Requisitos para a vaga**
+
+
+* Formação superior cursando ou completo em Tecnologia da Informação, Telecomunicações, Rede ou cursos da área de TI
+* Ter disponibilidade para 30hrs semanal presencial horário comercial (horários a discutir na seleção)
+**Vaga PJ, renumeração R$ 2000.00**
+
+* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
+
+* Familiar com ambiente unix/linux.
+
+* Conhecimentos de Redes LAN e WAN;
+
+* Conhecimento de configuração de Switches, Roteadores, Access Point e Controller
+
+* Conhecimento em cabeamento estruturado;
+
+* Conhecimento de manutenção de computadores;
+
+* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
+
+**Requisitos desejáveis**
+
+* Conhecimentos de Firewall PFSense
+* Conhecimentos de Zabbix
+* Conhecimentos de Microtik
+* Conhecimentos de shell script
+
+Técnico para área de infra-estrutura e servidores (1 vaga)
+------------------------------------
+
+A oportunidade de auxiliar no desenvolvimento, gestão e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de manutenção, suporte, documentação em nosso setor para operação de servidores, máquinas virtuais e backups.
+
+Isto inclui atividades de gestão de backups; monitoramento e manutenção de servidores de virtualização XenServer e gerenciar servidores Windows de serviços, como Active Directory, DNS , DHCP e Storage.
+
+Desejável se sentir à vontade em trabalhar com problemas que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
+
+
+**Requisitos para a vaga**
+
+* Formação superior cursando ou completo em Tecnologia da Informação, ou cursos da área de TI;
+* Ter disponibilidade para 30hrs semanal presencial horário comercial (horários a discutir na seleção)
+**Vaga PJ, renumeração R$ 2500.00**
+* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
+* Familiar com ambiente unix/linux.
+* Conhecimentos de Redes LAN e WAN;
+* Conhecimento de configuração e manutenção em servidores XenServer 
+* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
+
+**Requisitos desejáveis**
+
+* Conhecimentos de XenServer
+* Conhecimentos de Windows Active Directory
+* Conhecimentos de Shell script e Python
+* Conhecimentos em ambientes Docker de virtualização
