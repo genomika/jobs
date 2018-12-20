@@ -53,67 +53,24 @@ se identifiquem com a vaga em interesse.
 Vagas Disponíveis
 =================
 
-Técnico para área de infra-estrutura e redes de computadores (1 Vaga)
-------------------------------------
-
-A oportunidade de auxiliar no desenvolvimento, gestão e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de manutenção, suporte, documentação em nosso setor para operação de redes, firewall e computadores.
-
-Isto inclui atividades de monitoramento de infra-estrutura de redes, suporte para melhorias da infra-estrutura de máquinas e sistemas operacionais instalados. Suporte ao time técnico do laboratório para resolução de problemas de máquinas laboratoriais e sistemas.
-
-Desejável se sentir à vontade em trabalhar com problemas que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
-
-**Requisitos para a vaga**
-
-
-* Formação superior cursando ou completo em Tecnologia da Informação, Telecomunicações, Rede ou cursos da área de TI
-* Ter disponibilidade para 30hrs semanal presencial horário comercial (horários a discutir na seleção)
-**Vaga PJ, renumeração R$ 2000.00**
-
-* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
-
-* Familiar com ambiente unix/linux.
-
-* Conhecimentos de Redes LAN e WAN;
-
-* Conhecimento de configuração de Switches, Roteadores, Access Point e Controller
-
-* Conhecimento em cabeamento estruturado;
-
-* Conhecimento de manutenção de computadores;
-
-* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
-
-**Requisitos desejáveis**
-
-* Conhecimentos de Firewall PFSense
-* Conhecimentos de Zabbix
-* Conhecimentos de Microtik
-* Conhecimentos de shell script
-
-Técnico para área de infra-estrutura e servidores (1 vaga)
-------------------------------------
-
-A oportunidade de auxiliar no desenvolvimento, gestão e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de manutenção, suporte, documentação em nosso setor para operação de servidores, máquinas virtuais e backups.
-
-Isto inclui atividades de gestão de backups; monitoramento e manutenção de servidores de virtualização XenServer e gerenciar servidores Windows de serviços, como Active Directory, DNS , DHCP e Storage.
-
-Desejável se sentir à vontade em trabalhar com problemas que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
-
-
-**Requisitos para a vaga**
-
-* Formação superior cursando ou completo em Tecnologia da Informação, ou cursos da área de TI;
-* Ter disponibilidade para 30hrs semanal presencial horário comercial (horários a discutir na seleção)
-**Vaga PJ, renumeração R$ 2500.00**
-* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
-* Familiar com ambiente unix/linux.
-* Conhecimentos de Redes LAN e WAN;
-* Conhecimento de configuração e manutenção em servidores XenServer 
-* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
-
-**Requisitos desejáveis**
-
-* Conhecimentos de XenServer
-* Conhecimentos de Windows Active Directory
-* Conhecimentos de Shell script e Python
-* Conhecimentos em ambientes Docker de virtualização
+Estágio em Software Quality Assurance (SQA) e Gestão de Requisitos (1 Vaga)
+-------------------------------------	
+ 
+  A oportunidade de aprender e auxiliar o time de desenvolvimento da Genomika Diagnósticos no processo de gestão, construção, validação de testes de software nos aspectos funcionais e técnicos de código-fonte; e finalmente na inspeção e captura de requisitos para testes e possíveis bugs funcionais ou de código e gestão de treinamentos com os nossos clientes.	
+ 
+  A Genomika possui softwares de gestão laboratorial e de bioinformática que precisam ser constantemente avaliados para possíveis detecções de bugs ou melhorias. Grande oportunidade para o aprendizado em trabalhar com ciência na prática, pois nossos sistemas de informação manipulam grandes massas de dados genéticos localmente e nas nuvens. Desejável se sentir à vontade em trabalhar com testes e gestão de requisitos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.	
+ 
+  **Requisitos para a vaga**	
+ 
+  * Graduando em alguma área de computação.	
+ * Ter disponibilidade para 30hrs semanal presencial.	
+ * Conhecimentos básicos sobre testes e qualidade de software.	
+ * Conhecimentos básicos de linguagem de programação (Python, Ruby, etc) e conhecimentos web com JQuery, JavaScript.	
+ * Se sentir à vontade em um ambiente de trabalho em equipe; proativo; boa capacidade de comunicação	
+ Familiar com Ambiente unix/linux.	
+ 
+  **Requisitos desejáveis**	
+ 
+  * Conhecimento mínimos em inglês (para suporte e leitura de manuais e tutoriais)	
+  * Conhecimentos sobre gestão de requisitos de software	
+  * Familiar sobre os conceitos web e bibliotecas JavaScript
