@@ -19,7 +19,7 @@ Em nosso setor de T.I e bioinformática trabalhamos com desenvolvimento de siste
 
 Clique nas imagens abaixo para conhecer melhor a Genomika:
 
-[![ScreenShot](http://i1.ytimg.com/vi/pKA83K7sfS8/maxresdefault.jpg)](https://www.youtube.com/watch?v=pKA83K7sfS8)
+[![ScreenShot](http://i1.ytimg.com/vi/pKA83K7sfS8/maxresdefault.jpg)](https://youtu.be/5A6HxZ7TGRY)
 
 [![ScreenShot](https://image.ibb.co/kUuJE6/maxdefault2.png)](https://vimeo.com/160609222)
 
