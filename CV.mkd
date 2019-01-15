@@ -1,13 +1,46 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+-[Estágio em bioinformática] 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+######Dados pessoais:
+
+Vinicius Bezerra Araujo da Silva, 
+23 anos, 
+Solteiro.
+Contatos: vbas@cin.ufpe.br, 
+81-997125955
+
+
+######Objetivo:
+* Aprender a ganhar experiência na área da computação.
+
+
+######Formação:
+* 2010-2014: Graduação incompleta em engenharia biomédica pela UFPE
+
+* 2014.2: Transferencia interna para engenharia da computação UFPE
+
+* 2014-2017*: Graduação atual em andamento em engenharia da computação.(4º período 2016.1)
+
+* 2015.2: Monitor da cadeira de algorítimos e estrutura de dados
+
+* Ingles avançado
+
+
+
+######Linguagens:
+* C (experiencia e projetos)
+
+* Java(projetos na graduação)
+
+* Python(projetos na graduação e por fora)
+
+* Experiência com robótica(finalista da intel contest SBESC 2015, participante robocup)
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
