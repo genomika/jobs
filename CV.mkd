@@ -1,13 +1,53 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
++Estágio em Bioinformática
 
 
 CV
-==
+Diego Rodrigo Rromão Felix Celestino
+Idade: 25 anos
+Contato: (81) 999494832
+E-mail: diego.rrfc@gmail.com
 
-[Preencha aqui o seu cv]
+Formação
+
+Curso: Engenharia da Computação
+Instituição: Universidade de Pernambuco
+Previsão para formação: 2018.2
+
+Curso: Infraestrutura da Tcnológia da Informação(Redes e Windows Server)
+Instituição: Microsoft Students to Business
+
+Curso: Técnico em Manutenção e Suporte em Informática
+Instituição: Escola Técnica Professor Agamenon Magalhães
+
+Experiência Profissional
+
+ODONTOIMAGEM - ESTAGIÁRIO (2013- 2015)
+
+Desenvolvia manutenção do servidor de pequeno porte da empresa, instalação e reparo via rede do sistema CFTV da empresa, além da configuração e manutenção dos dispositivos periféricos.
+
+TRE - ESTAGIÁRIO (2015- 2017)
+
+Suporte no cabeamento estruturado, atuação na gerência das linhas e dos links de comunicação do backbone, substituição e manutenção dos equipamentos ativos de redes e de telefonia
+
+Conhecimentos
+
+Trilha em C#
+Trilha em Java
+Trilha em desenvolvimento Web com PHP e MySql
+Conhecimento em desenvolvimento de aplicações web com NodeJs com o banco de dados MongoDb
+Conhecimento básico em Python(Aninda estou estudando a linguagem)
+
+Curiosidades
+
+Ultimamente venho conhecendo, aos poucos, a Linguagem R para a análise de dados(Big data). De uma certa maneira o assunto Big data me chamou uma certa atenção, por isso, eu estudarei mais sobre esse tema.
+
+Objetivos
+
+Desejo atuar na área de desenvolvimento de sistemas, modelagem e manutenção de bancos de dados e ,se possível, obter uma experiência em análise e tratamento de big data.
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
