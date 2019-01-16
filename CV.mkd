@@ -1,17 +1,27 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Bioinformática
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+<h1>Thomas Leonardo</h1>
+<h3>Telefone: (81)999904143 Email: thomas.LRP@gmail.com</h3>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+<h4><strong>Experiência</strong></h4>
+<ul>
+	<li>Experiência com Python, orientação a objetos e django,</li>
+	<li>Implementar algorítmos e estruturas de dados como mergesort, busca binária e outros que constam no HackerRank, link para meu perfil: https://www.hackerrank.com/Chirp,</li>
+	<li>Conhecimento em SQL com MySQL, e NOSQL com MongoDB,</li>
+	<li>Experiência com GIT e GitHub,</li>
+	<li>Conhecimento em linguagens web como HTML, CSS e JavaScript,</li>
+	<li>Conhecimento em Estática, Sistemas Operacionais e Redes através das matérias na faculdade e estudos a parte,</li>
+	<li>Fluente em inglês</li>
+</ul><br>
+
+<h4><strong>Educação</strong></h4>
+<ul>
+	<li>Graduação em Ciência da Computação, expectativa de conclusão em 2019.1</li>
+</ul>
