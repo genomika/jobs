@@ -29,6 +29,7 @@ SUPERIOR | CURSANDO |UFRPE | TARDE
 <br />
 7° período em Bacharelado em ciência da computação
 <br />
+<br />
 TECNICO | COMPLETO|SENAC
 <br />
 Tecnico em Contabilidade
