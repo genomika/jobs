@@ -1,13 +1,51 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+Estagio para testes e qualidade de software
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+*Givanildo Alfeu de Souza Ju nior
+
+23 anos, Rua Manoel De Medeiros, CEP: 52171030, Recife | (81)996785441 | giva0908@gmail.com
+Objetivo
+
+Estou em busca de desenvolvimento profissional e pessoal, melhorar como trabalhador e busco me qualificar, evoluir e acrescentar a empresa com meus conhecimentos atuais ,assim como, também aprender muito com os profissionais la já presentes.
+
+*Educação
+SUPERIOR | CURSANDO |UFRPE | TARDE
+· 7° período em Bacharelado em ciência da computação
+TECNICO | COMPLETO|SENAC
+· Tecnico em Contabilidade
+
+
+*Habilidades e Conhecimentos
+· Java
+· Orientação a objeto
+· Python
+· C
+· MySql
+· Desenvolvimento WEB(html5, css3, javascript)
+· Ionic3
+· Scrum
+· Git e GitHub
+
+*Experiência
+Atualmente sou bolsista no CECINE-UFPE e ministro cursos de introdução a programação e informática básica e participo do PIC(Programa de Iniciação Cientifica) voluntariamente na UFRPE no desenvolvimento de uma ferramenta que futuramente sera disponivel na WEB.
+
+*Idiomas
+· Inglês
+Leio/compreendo bem e falo/escrevo pouco.
+· Espanhol
+Leio/compreendo bem,escrevo/falo pouco.
+
+*Links
+
+GitHub: github.com/GivaJr
+Linkedin: linkedin.com/in/givanildo-junior-052b9284/
+
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
