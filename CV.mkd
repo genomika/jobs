@@ -6,21 +6,22 @@ Estagio para testes e qualidade de software
 CV
 ==
 
-*Givanildo Alfeu de Souza Ju nior
+Givanildo Alfeu de Souza Ju nior
 
 23 anos, Rua Manoel De Medeiros, CEP: 52171030, Recife | (81)996785441 | giva0908@gmail.com
 Objetivo
 
 Estou em busca de desenvolvimento profissional e pessoal, melhorar como trabalhador e busco me qualificar, evoluir e acrescentar a empresa com meus conhecimentos atuais ,assim como, também aprender muito com os profissionais la já presentes.
 
-*Educação
+Educação
 SUPERIOR | CURSANDO |UFRPE | TARDE
 · 7° período em Bacharelado em ciência da computação
 TECNICO | COMPLETO|SENAC
 · Tecnico em Contabilidade
 
 
-*Habilidades e Conhecimentos
+Habilidades e Conhecimentos
+
 · Java
 · Orientação a objeto
 · Python
@@ -31,17 +32,16 @@ TECNICO | COMPLETO|SENAC
 · Scrum
 · Git e GitHub
 
-*Experiência
+Experiência
 Atualmente sou bolsista no CECINE-UFPE e ministro cursos de introdução a programação e informática básica e participo do PIC(Programa de Iniciação Cientifica) voluntariamente na UFRPE no desenvolvimento de uma ferramenta que futuramente sera disponivel na WEB.
 
-*Idiomas
+Idiomas
 · Inglês
 Leio/compreendo bem e falo/escrevo pouco.
 · Espanhol
 Leio/compreendo bem,escrevo/falo pouco.
 
-*Links
-
+Links
 GitHub: github.com/GivaJr
 Linkedin: linkedin.com/in/givanildo-junior-052b9284/
 
