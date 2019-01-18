@@ -14,6 +14,7 @@ Givanildo Alfeu de Souza Junior
 23 anos, Rua Manoel De Medeiros, CEP: 52171030, Recife | (81)996785441 | giva0908@gmail.com
 <br />
 <br />
+
 Objetivo
 <br />
 Estou em busca de desenvolvimento profissional e pessoal, melhorar como trabalhador e busco me qualificar, evoluir e acrescentar a empresa com meus conhecimentos atuais ,assim como, também aprender muito com os profissionais la já presentes.
@@ -23,18 +24,18 @@ Estou em busca de desenvolvimento profissional e pessoal, melhorar como trabalha
 Educação
 
 <br />
--SUPERIOR | CURSANDO |UFRPE | TARDE
+SUPERIOR | CURSANDO |UFRPE | TARDE
+<br />
 <br />
 7° período em Bacharelado em ciência da computação
-
--TECNICO | COMPLETO|SENAC
+TECNICO | COMPLETO|SENAC
 <br />
 Tecnico em Contabilidade
 
 <br />
 <br />
 Habilidades e Conhecimentos
-
+<br />
 - Java
 - Orientação a objeto
 - Python
@@ -47,16 +48,19 @@ Habilidades e Conhecimentos
 <br />
 <br />
 Experiência
+
 <br />
 Atualmente sou bolsista no CECINE-UFPE e ministro cursos de introdução a programação e informática básica e participo do PIC(Programa de Iniciação Cientifica) voluntariamente na UFRPE no desenvolvimento de uma ferramenta que futuramente sera disponivel na WEB.
 <br />
 <br />
+
 Idiomas
 <br />
-- Inglês
- Leio/compreendo bem e falo/escrevo pouco.
-- Espanhol
- Leio/compreendo bem e escrevo/falo pouco.
+Inglês
+Leio/compreendo bem e falo/escrevo pouco.
+<br />
+Espanhol
+Leio/compreendo bem e escrevo/falo pouco.
 <br />
 <br />
 
