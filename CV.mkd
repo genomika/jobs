@@ -34,8 +34,10 @@ TECNICO | COMPLETO|SENAC
 Tecnico em Contabilidade
 <br />
 <br />
+
 Habilidades e Conhecimentos
 ===========================
+<br />
 
 - Java
 - Orientação a objeto
