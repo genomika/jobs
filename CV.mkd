@@ -75,9 +75,12 @@ Links
 =====
 <br />
 <br />
-GitHub: github.com/GivaJr
+GitHub:    github.com/GivaJr
+
+<a href="http://github.com/GivaJr">GitHub</a>
+
 <br />
-Linkedin: linkedin.com/in/givanildo-junior-052b9284/
+Linkedin:      linkedin.com/in/givanildo-junior-052b9284/
 
 
 
