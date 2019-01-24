@@ -7,7 +7,7 @@ Seleção Estágio
 CV
 ==
 
-#Edilson da Silva Braga Júnior   
+# Edilson da Silva Braga Júnior   
 Rua Vereador Sérgio Xavier, 98 – San Martin   
 CEP: 50761-550 Recife – PE    
 Telefones: (81) 3445-1950, 98410-0476    
@@ -17,17 +17,20 @@ GitHub: https://github.com/SEdilson
 LinkedIn: https://www.linkedin.com/in/edilson-da-silva-6b891b130/    
 
 
-###Objetivo
+### Objetivo
 
 Ingressar no ramo de informática, especificamente como estagiário na área
 de desenvolvimento web.   
 
-- ####Formação Acadêmica   
+#### - Formação Acadêmica   
+
 Técnico em redes de computadores (ETEMAC – Escola Técnica Estadual
 Maximiano Accioly Campos)    
 Cursando tecnólogo em análise e desenvolvimento de sistemas (Estácio do
 Recife, 2º período)     
-- ####Cursos Complementares    
+
+#### - Cursos Complementares
+
 Curso Design front-end (Design Culture)    
 Término: Maio/2018    
 JavaScript avançado III: orientação a objetos e padrões de projetos
@@ -40,7 +43,11 @@ rendering (Alura)
 Término: 2018     
 Bootstrap: Criação de uma single-page responsiva (Alura)     
 Término: 2018     
-- ####Idiomas     
+
+#### - Idiomas     
+
 Inglês avançado     
-- ####Atividades extracurriculares      
+
+#### - Atividades extracurriculares      
+
 Dev Fest XP – 2017 (Voluntário)
