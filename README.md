@@ -52,3 +52,47 @@ se identifiquem com a vaga em interesse.
 
 Vagas Disponíveis
 =================
+
+
+Técnico para área de infra-estrutura e redes de computadores (1 Vaga)
+------------------------------------
+
+A oportunidade de auxiliar no desenvolvimento, gestão e manutenção de nossos ativos (sistemas laboratorial, rede, máquinas) de Tecnologia de Informação da Genomika Diagnósticos. Isto inclui atividades de manutenção, suporte, documentação em nosso setor para operação de redes, firewall e computadores.
+
+Isto inclui atividades de monitoramento de infra-estrutura de redes, suporte para melhorias da infra-estrutura de máquinas e sistemas operacionais instalados e  gestão de servidores Windows Servers XP/7/10/Server 2008/2012 . Suporte ao time técnico do laboratório para resolução de problemas de máquinas laboratoriais e sistemas.
+
+Desejável se sentir à vontade em trabalhar com problemas que envolvem grandes volumes de dados no contexto de dados genéticos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.
+
+**Requisitos para a vaga**
+
+
+* Formação superior cursando ou completo em Tecnologia da Informação, Telecomunicações, Rede ou cursos da área de TI
+* Ter disponibilidade para 30hrs semanal presencial horário comercial (horários a discutir na seleção)
+
+**Vaga PJ, renumeração base R$ 2500.00 + acréscimos de plantão**
+
+* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
+
+* Familiar com ambiente unix/linux.
+
+* Conhecimentos de Redes LAN e WAN;
+
+* Conhecimentos de Mikrotik intermerdiário;
+
+* Conhecimento de configuração de Switches, Roteadores, Access Point e Controller
+
+* Conhecimento em cabeamento estruturado;
+
+* Conhecimento de manutenção de computadores;
+
+* Conhecimento em Virtualização e Acesso Remoto;
+
+* Se sentir à vontade em um ambiente de trabalho em equipe; proativo;
+
+* Suporte a usuários, configuração de Desktops, Outlook, instalação de aplicativos, Hardware, impressoras e impressoras de etiquetas.
+
+**Requisitos desejáveis**
+
+* Conhecimentos de Firewall PFSense
+* Conhecimentos de Zabbix
+* Conhecimentos de shell script
