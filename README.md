@@ -96,3 +96,26 @@ Desejável se sentir à vontade em trabalhar com problemas que envolvem grandes 
 * Conhecimentos de Firewall PFSense
 * Conhecimentos de Zabbix
 * Conhecimentos de shell script
+
+
+
+Vaga para Estagiário de Desenvolvimento de Sistemas Web (1 Vaga)
+-------------------------------------------------------------------------------------------
+ 
+A Genomika Diagnósticos está com 1 vaga para estágio de desenvolvimento de sistemas web de nosso laboratório. Isto inclui grandes desafios em processos, biologia, bioinformática, programação e volume de dados. O nosso sistema é pioneiro no Brasil para todo o controle de fluxo de exames e amostras , incluindo bancos de dados de variantes. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.  Modalidade :  Estágio 6 hrs diário.
+
+ **Requisitos para a vaga**
+
+* Graduando em alguma área de computação.
+* Conhecimento de linguagens de programação (Java, Scala, Python, etc.)
+* Conhecimentos básicos bancos de dados (SQL ou NoSQL)
+* Proficiência no uso de um sistema operacional baseado em Unix (Linux ou Mac Os)
+* Se sentir à vontade com trabalho em esquipe e times multi-disciplinares;
+* Afinidade com projetos de pesquisa e inovação e desafio tecnológico;
+* Disponibilidade para 30 horas semanais presencial.
+
+**Diferencial**
+
+* Experiência prévias em design e arquitetura de software
+* Experiência com ferramentas para desenvolvimento web e conhecimentos web com JQuery, Javascript, Ajax e outros.
+* Conhecimento de frameworks web Python como Django ou Flask.
