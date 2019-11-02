@@ -1,17 +1,70 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+Estágio em Software Quality Assurance (SQA) e Gestão de Requisitos (1 Vaga)
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+```
+Guilherme Menge
+Rua Amaraji, n° 130 ; Casa Forte
+52060440 ; Recife ; Pernambuco
+(81) 9 8172-2229 ; (81) 3031-1209
+ghma@cin.ufpe.br
+22 anos, Brasileiro, Solteiro
+```
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+Estudante de Sistemas de Informação (transferido de Ciência da Computação). Tenho nível profissional de certificação em Inglês. Busco estágio numa empresa da área onde eu possa progredir como desenvolvedor. Já trabalhei bastante na área de infraestrutura, e até hoje faço alguns trabalhos como freelancer.
+
+## Habilidades
+
+* Front-end:	 
+HTML, CSS, JS - Bootstrap, JQuery
+
+* Back-end: 
+
+	- PHP e MySQL (Wordpress, Zend, Codeignitter e Laravel)
+		- Último projeto: www.aptlider.com.br/teste
+	
+	- Ruby on Rails (Utilizado pros projetos do curso de Sist. de Informação) 
+		- Último projeto: medicalhelp.herokuapp.com
+			[ app para buscar assistência médica ]
+	
+	- Java (utilizado nos projetos no curso de Ciência da Computação)
+
+## Formação
+
+* FEVEREIRO DE 2013 - DEZEMBRO DE 2015
+	- UFPE - Ciência da Computação - (superior incompleto)
+	- Comecei em 2013 na UFPE no curso de Ciência da Computação. Após 2 anos e meio, optei por buscar transferência para o curso de Sistemas de Informação.
+
+* FEVEREIRO DE 2016 - DEZEMBRO DE 2019
+	- UFPE - Sistemas de Informação - (em andamento)
+	- Foi no curso de Sistemas de Informação que comecei a trabalhar com desenvolvimento. 
+
+## Experiência Profissional
+
+* DESDE SETEMBRO DE 2017
+* Agência Atacama 
+	- (agenciaatacama.com.br) 
+	- Estágio - Dev. Front-end e Back-end
+	- Desenvolvimento de projetos web como: sistemas de gestão de conteúdo personalizados, integração com redes sociais e chatbots. Bem como toda a parte visual (front-end).
+
+* JANEIRO DE 2014 - AGOSTO DE 2017
+* b2 Filmes 
+	- (youtube.com/b2filmes)
+	- Gestor de Infraestrutura
+	- Compra de equipamentos e suporte.
+	- Infraestrutura de rede para transmissão ao vivo de eventos.
+
+
+
+## Vivência Internacional
+
+* Inglês – Certificação de Proficiência:
+	- Curso Avançado – ELS – Atlanta/GA - EUA (nível 109) [www.els.edu]
+	- Examination for the Certificate of Proficiency in English (ECPE/Michigan University)
+	- Estados Unidos – Curso de dois meses na ELS em Atlanta, nível 108 e 109 completos. (nível
+avançado)
+	- Canadá – Intercâmbio Cultural de um mês
