@@ -1,17 +1,56 @@
-Vaga
-====
+# Ewerton de Araújo Luna
+Brasileiro - Solteiro - 05/06/1990 - 29 anos<br>
+(81) 3445-2764 - (81) 99753-7429<br>
+Email - ewerton.al@gmail.com
 
-[Preencha aqui a vaga que você pretende]
+## Objetivo
+Estagiário de Desenvolvimento de Sistemas Web.
 
+## Formação 
+Formado em Engenharia Elétrica pela Universidade Federal de Pernambuco.<br>
+Graduando em Ciências da Computação na UniFBV Wyden.<br>
+Graduando do curso Full Stack JavaScript TechDegree pelo conceituado site americano de cursos de tecnologia [Team Treehouse](https://teamtreehouse.com/techdegree/full-stack-javascript).
 
-CV
-==
+## Qualificações
+#### Javascript Fullstack
+###### Tecnologias Front End e Back End
+- JavaScript
+- jQuery
+- Ajax
+- Node.js/Express e frameworks back end **(em andamento)**
+#### Contato com outras linguagens e tecnologias
+- Java
+- Python
+- Git
+- SQL
+- C
 
-[Preencha aqui o seu cv]
+## Projetos concluídos
+- **_Public API Requests Webpage_**<br>
+	- [repositório](https://github.com/ewertonluna/techdegree_project_5)<br>
+	- [page link](https://ewertonluna.github.io/techdegree_project_5/)
+- **_Object Oriented Progamming Game Show App_** 
+	- [repositório](https://github.com/ewertonluna/techdegree_project_4)<br>
+	- [page link](https://ewertonluna.github.io/techdegree_project_4/) 
+- **_Interactive Form_**
+	- [repositório](https://github.com/ewertonluna/techdegree_project_3)<br>
+	- [page link](https://ewertonluna.github.io/techdegree_project_3/)
+- **_List Pagination And Filtering_**
+	- [repositório](https://github.com/ewertonluna/techdegree_project_2)<br>
+	- [page link](https://ewertonluna.github.io/techdegree_project_2/)
+- **_Random Quote Generator_**
+	- [repositório](https://github.com/ewertonluna/techdegree_project_1)<br>
+	- [page link](https://ewertonluna.github.io/techdegree_project_1/)
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+**PS: É possível que algumas page links não estejam online pelo Github Pages.** Até a última verificação, apenas o projeto Object Oriented Programming Game Show app estava online.<br>
+Caso haja demora para que o serviço coloque a página no ar, **favor baixar os arquivos dos respositórios e executar os respectivos arquivos index.html.**
+
+## Experiência Profissional
+- Diretoria de Planos e Projetos (SINFRA);
+	- Estágio em Engenharia Elétrica.
+
+## Idiomas
+- Inglês avançado/fluente.
+
+## Características pessoais
+Tenho paixão e curiosidade enorme pela área de tecnologia. Esta me fez descobrir que sou e tenho prazer em ser um lifelong learner. Considero que os desafios que a Tecnologia da Informação proporcionam são constantes motivadores, por isso, me empolgo com a oportunidade de contribuir com uma equipe de desenvolvimento web, podendo agregar e receber conhecimento.
