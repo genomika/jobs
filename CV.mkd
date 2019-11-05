@@ -8,7 +8,7 @@ Estagiário de Desenvolvimento de Sistemas Web.
 
 ## Formação 
 Formado em Engenharia Elétrica pela Universidade Federal de Pernambuco.<br>
-Graduando em Ciências da Computação na UniFBV Wyden.<br>
+Graduando em Ciências da Computação na UniFBV Wyden - 2o Período.<br>
 Graduando do curso Full Stack JavaScript TechDegree pelo conceituado site americano de cursos de tecnologia [Team Treehouse](https://teamtreehouse.com/techdegree/full-stack-javascript).
 
 ## Qualificações
