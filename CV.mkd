@@ -1,17 +1,87 @@
+
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+Estagio para testes e qualidade de software
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Givanildo Alfeu de Souza Junior
+===============================
+<br />
+23 anos, Rua Manoel De Medeiros, CEP: 52171030, Recife | (81)996785441 | giva0908@gmail.com
+<br />
+<br />
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+Objetivo
+========
+
+<br />
+Estou em busca de desenvolvimento profissional e pessoal, melhorar como trabalhador e busco me qualificar, evoluir e acrescentar a empresa com meus conhecimentos atuais ,assim como, também aprender muito com os profissionais la já presentes.
+<br />
+<br />
+
+Educação
+========
+<br />
+SUPERIOR | CURSANDO |UFRPE | TARDE
+<br />
+7° período em Bacharelado em ciência da computação
+<br />
+<br />
+TECNICO | COMPLETO|SENAC
+<br />
+Tecnico em Contabilidade
+<br />
+<br />
+
+Habilidades e Conhecimentos
+===========================
+<br />
+
+- Java
+- Orientação a objeto
+- Python
+- C
+- MySql
+- Desenvolvimento WEB(html5, css3, javascript)
+- Ionic3
+- Scrum
+-Git e GitHub
+<br />
+<br />
+
+Experiência
+===========
+
+<br />
+Atualmente sou bolsista no CECINE-UFPE e ministro cursos de introdução a programação e informática básica e participo do PIC(Programa de Iniciação Cientifica) voluntariamente na UFRPE no desenvolvimento de uma ferramenta que futuramente sera disponivel na WEB.
+<br />
+<br />
+
+Idiomas
+=======
+
+<br />
+Inglês
+Leio/compreendo bem e falo/escrevo pouco.
+<br />
+Espanhol
+Leio/compreendo bem e escrevo/falo pouco.
+<br />
+<br />
+
+Links
+=====
+
+<br />
+
+<a href="http://github.com/GivaJr">My GitHub</a>
+
+<a href="http://linkedin.com/in/givanildo-junior-052b9284/">My Linkedin</a>
+
+<br />
+
+
+
