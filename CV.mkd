@@ -1,17 +1,37 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estagiário de Desenvolvimento de Sistemas Web
 
 
 CV
 ==
+# Rafael Gustavo Matoso Gomes
 
-[Preencha aqui o seu cv]
+| Endereço: Rua Júlio Alves de Souza, Cabo de Santo Agostinho-PE, CEP: 54510-045|</br>
+| Telefone: (81) 99618-0869 | Email: rafaelmatosog@gmail.com |
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+* **Objetivo**</br>
+	* Crescimento e ampliação do conhecimento profissional visando a área de Desenvolvimento de Software.
+
+* **Resumo**</br> 
+	* Cinco anos de sólida e enriquecedora experiência na área técnico/administrativa da Construção Civil, com foco no 
+acompanhamento e análise dos processos construtivos, bem como a gestão dos projetos internos de obra.</br>
+* **Habilidades, Competências e Hobbies**</br>
+	* Linguagens de Programação: Java, Python, JavaScript, C, Dart, SQL.</br>
+	* Frameworks e Bibliotecas de Desenvolvimento: Node.js, ReactJS, React Native, Spring Framework.</br>
+	* Conhecimento de Sistemas Operacionais: Windows e Linux (Ubuntu, Mint, Deepin)</br>
+	* Idiomas Estrangeiros: Cursando o EnglishPro (UniFBV | Wyden) - Nível Fundamentals 2</br>
+	* Iniciativa, adaptabilidade, raciocínio rápido e fácil aprendizado, comunicação, bom relacionamento interpessoal, competitividade</br>
+	* Empatia, responsabilidade, comprometimento com o bem comum, trabalho em equipe.</br>
+* **Portfólio**</br>
+	* LinkedIn: https://www.linkedin.com/in/rafaelmatosope</br>
+	* Git: https://github.com/rafamatoso</br>
+* **Experiência**</br>
+	* Estágio Voluntário em Desenvolvimento Web e Mobile | Experimental TI | 08.07.19 / atualmente</br>
+* **Educação**</br>
+ 	* Gestão em Tecnologia da Informação | 2017.2 a 2020.1 | UniFBV Wyden</br>
+**Cursos e Certificações** </br>
+	* Udemy **| Java Completo 2019: Programação Orientada a Objetos + Projetos** | Carga Horária: 41,5 Hr. | Link: ude.my/UC-B9N1JXPE </br>
+	* Udemy **| Python & MySQL** | Carga Horária: 6,5 Hr. | Link: ude.my/UC-MW9YUSJ3</br>
+ 	* CertiProf **|Scrum Foundation Professional Certificate SPFC |** ID CP: 21555846771082</br>
