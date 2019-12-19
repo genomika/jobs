@@ -1,13 +1,65 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estagiário de Desenvolvimento de Sistemas Web
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+linkedin: https://www.linkedin.com/in/andr%C3%A9-luna-9b1a99b3/
+
+André Luna Marinho
+Brasileiro, Solteiro, 23 anos
+Travessa Barros Rêgo, no 16, Tejipió
+Telefone: (81) 9 9841 2081 / (81) 3257 7955
+Email: alm3@cin.ufpe.br
+
+● Formação
+
+	❏ Ciência da Computação. Universidade Federal de Pernambuco,
+	previsão de conclusão em 2021.
+
+● Experiência
+
+	❏ Desenvolvedor Front-End
+	(Pro-SPB - Agosto/2016 ... Janeiro/2017)
+		➢ Trabalhei 1 semestre neste projeto de uma plataforma Educacional
+		com tecnologias como HTML, CSS e Bootstrap
+
+	❏ Estagiário Desenvolvimento .Net
+	(M2S Software - Junho/2018 ... Dias atuais)
+		➢ Nesta função de desenvolvedor .Net trabalho com tecnologias como
+		Asp.net Web forms, Asp.net MVC 5,
+		Asp.net core, Banco de Dados SQL Server, ORMs como EF e
+		NHibernate e Modelo de arquitetura Domain-Driven Design.
+		Experiência com TeamCity (Ferramenta de integração contínua).
+
+● Qualificações e Atividades Complementares
+
+	❏ HTML, CSS & Javascript (codecademy)
+	❏ Linguagem C (Centro Integrado de Tecnologia da Informação - CIti,
+	40h)
+	❏ Ruby on Rails (Centro Integrado de Tecnologia da Informação - CIti,
+	40h)
+	❏ Monitor da Cadeira de Tópicos Avançados em Linguagens
+	Computacionais durante 1 semestre
+
+● Informações Adicionais
+
+	❏ Campeão da Primeira Hackathon UPE com o Tema Cidades
+	Inteligentes
+		➢ Time Campeão com a ideia e protótipo parcial de uma
+		Central inteligente de carregamento de baterias de bicicletas
+		e veículos de pequeno porte.
+
+	❏ Conhecimento em Git e nas Linguagens Java, C/C++, Python, Haskell
+	❏ Curso de Manutenção de Computadores (Iditec)
+	❏ Inglês Avançado (The Special English School)
+	❏ Intercâmbio Cultural Estudando o 2o ano do Ensino Médio durante 1
+	Semestre no Canadá (Setembro/2012 - Janeiro/2013)
+		➢ Bolsa de Estudos do Programa Ganhe o Mundo (PGM) do
+		Governo do Estado de Pernambuco
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
