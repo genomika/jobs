@@ -1,13 +1,49 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+*Estágio em Bioinformática*
 
 CV
 ==
+**Nome**: Danilo da Silva Barbosa de Lima<br/>
+**Data de Nascimento**: 31/10/1989<br/>
+**Sexo**: Masculino<br/>
+**Telefone**: (81)985382593<br/>
+**Email**:dsbl@ecomp.poli.br<br/>
+**Endereço**: Rua Beija-Flôr, 282, Jardim Atlântico, Olinda, CEP:53050-164<br/>
 
-[Preencha aqui o seu cv]
+FORMAÇÃO ACADÊMICA
+-------------------
+**Graduando em Engenharia da Computação**<br/> 
+UPE, Escola Politécnica de Pernambuco, (2010-2015).<br/>
+
+ATIVIDADES EXTRAS
+-----------------
+**Monitor da Disciplina LInguagem de Programação Funcional (Haskell)**<br/>
+Fui monitor da disciplina durante dois periodos.<br/>
+
+CONHECIMENTOS
+-------------
+**Paradigma de Orientação a Objetos** - <br/>
+**Métodos Ágeis** - Tenho conhecimento em Scrum, tanto teórico, estudei o assunto na disciplina Engenharia de Software, quanto prático, desenvolvi um projeto utilizando essa metodologia na disciplina Aplicações em Engenharia de Software com o auxilio da ferramenta Scrumwise.<br/>
+**Banco de Dados** - (MySql, Sql Server). Estes assuntos estudei por conta própria, pois na faculdade só é ensinado a modelagem dos dados.<br/>
+**Linguagens de Programação** - Possuo conhecimento nas seguintes linguagens:
+<ul>
+   <li>LINGUAGEM C</li>
+   <li>JAVA</li>
+   <li>C#</li>
+   <li>HASKELL</li>
+   <li>PROGRAMAÇÃO WEB(HTML, CSS, JAVASCRIPT, PHP)</li>
+   <li>ANDROID</li>
+</ul>
+<p>
+Na faculdade aprendi Java, Haskell e C. As outras linguagens aprendi por conta própria e nestas tenho um conhecimento básico. A linguagem que possuo maior conhecimento é Java
+</p>
+
+OBSERVAÇÕES
+-----------
+*Ainda não possuo experiência profissional*<br/>
+*Tenho disponibilidade para estagiar no período vespertino*<br/>
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
