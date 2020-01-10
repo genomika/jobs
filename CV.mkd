@@ -1,17 +1,30 @@
 Vaga
 ====
+Vaga para Estagiário de Desenvolvimento de Sistemas Web 
 
-[Preencha aqui a vaga que você pretende]
+**Formação**
+============
+Cursando Oitavo Período de Ciência da computação na Universidade Federal de Pernambuco 
 
+**Qualificações**
+================
+Conhecimentos nas linguagens :
+* Java 
+* JavaScript 
+* Python 
+* PL/SQL
 
-CV
-==
+Monitorias :
+* Cadeira de Gerenciamento de dados e informações
+* Primeiro Encontro Pernambucano de Educação, Ciência e Tecnologia
 
-[Preencha aqui o seu cv]
+**Idiomas**
+===========
+* Inglês Intermediário, Nível B1 Toeic
+* Espanhol Básico
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+**Contato**
+============
+Germano Pires de Carvalho
+* Telefone : 81 98120-1757
+* Email : germanopires.c@gmail.com
