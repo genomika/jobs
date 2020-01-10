@@ -128,7 +128,19 @@ Habilidades:
 
 <table>
 
-Experiência:
+Experiência Profissional:
+-------------------------
+<tr>
+   <td>
+   • Estagiário na Effetive Sistemas - 1 ano e 5 meses - (Em Andamento) 
+   </td>
+</tr>
+
+</table>
+
+<table>
+
+Experiências:
 -------------------
 <tr>
    <th> 
