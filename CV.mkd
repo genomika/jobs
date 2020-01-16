@@ -1,17 +1,39 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Bioinformática.
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+<p><font size="10"> Guilherme Melo da Silva</font> </br>
+Brasileiro, solteiro, 22 anos</br>
+Rua Leblon, número 55</br>
+Porto da Madeira – Recife– PE</br>
+Telefone: (81) 3451-9687 / Celular: (81) 8579-6480<br/> E-mail:guilhermemelo18@hotmail.com</p>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+OBJETIVO
+
+•Desenvolver funções dentro de áreas afins a ciência da computação. Com disponibilidade de horário pela manhã ou a noite.
+
+FORMAÇÃO
+
+•Técnico em eletrotécnica
+ IFPE - 2011
+
+•Graduação em bacharelado em ciência da computação 
+ UFRPE – 3º período
+
+EXPERIÊNCIAS PROFISSIONAIS 
+
+•Atlas Schindler Elevadores
+
+Principais Atividades: Análise técnica em comandos e sistemas, elétricos e eletrônicos, manutenção em máquinas elétricas e mecânicas.
+
+Entrada - 2012  
+Saída  - 2014
+
+INFORMAÇÕES ADICIONAIS
+
+•CNH – Carteira Nacional de Habilitação na categoria A e B.
