@@ -74,3 +74,26 @@ A Genomika Diagnósticos está com 1 vaga para estágio de desenvolvimento de si
 * Experiência prévias em design e arquitetura de software
 * Experiência com ferramentas para desenvolvimento web e conhecimentos web com JQuery, Javascript, Ajax e outros.
 * Conhecimento de frameworks web Python como Django ou Flask.
+
+
+Estágio em Software Quality Assurance (SQA) e Gestão de Requisitos (1 Vaga)
+-------------------------------------	
+ 
+  A oportunidade de aprender e auxiliar o time de desenvolvimento da Genomika Diagnósticos no processo de gestão, construção, validação de testes de software nos aspectos funcionais e técnicos de código-fonte; e finalmente na inspeção e captura de requisitos para testes e possíveis bugs funcionais ou de código e gestão de treinamentos com os nossos clientes.	
+ 
+  A Genomika possui softwares de gestão laboratorial e de bioinformática que precisam ser constantemente avaliados para possíveis detecções de bugs ou melhorias. Grande oportunidade para o aprendizado em trabalhar com ciência na prática, pois nossos sistemas de informação manipulam grandes massas de dados genéticos localmente e nas nuvens. Desejável se sentir à vontade em trabalhar com testes e gestão de requisitos. Ter comprometimento e saber trabalhar em equipe e seguir regras e protocolos de um laboratório clínico.	
+ 
+  **Requisitos para a vaga**	
+ 
+  * Graduando em alguma área de computação.	
+ * Ter disponibilidade para 30hrs semanal presencial.	
+ * Conhecimentos básicos sobre testes e qualidade de software.	
+ * Conhecimentos básicos de linguagem de programação (Python, Ruby, etc) e conhecimentos web com JQuery, JavaScript.	
+ * Se sentir à vontade em um ambiente de trabalho em equipe; proativo; boa capacidade de comunicação	
+ Familiar com Ambiente unix/linux.	
+ 
+  **Requisitos desejáveis**	
+ 
+  * Conhecimento mínimos em inglês (para suporte e leitura de manuais e tutoriais)	
+  * Conhecimentos sobre gestão de requisitos de software	
+  * Familiar sobre os conceitos web e bibliotecas JavaScript
