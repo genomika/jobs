@@ -1,17 +1,41 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+*Estágio em Desenvolvimento de Sistemas Web*
 
 
 CV
 ==
+**Nome**: Victor Olimpio da Silva<br/>
+**Data de Nascimento**: 15/10/1991<br/>
+**Telefone**: (81)9974206213<br/>
+**Email**:victor.olimpio@gmail.com<br/>
+**Endereço**: Rua 1humaitá Nº 50, Alto do Mandú - Casa Amarela - Recife CEP:52071-182<br/>
 
-[Preencha aqui o seu cv]
+FORMAÇÃO ACADÊMICA
+-------------------
+**Bacharel em Administração**<br/> 
+Universidade Federal Rural de Pernambuco (2009 - 2013).<br/>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+**Bacharelado em Sistemas de Informação**<br/> 
+Universidade Federal Rural de Pernambuco (5º! Período, previsão de término: 2022).<br/>
+
+COHECIMENTOS ADQUIRIDOS/ EM DESENVOLVIMENTO
+-------------------
+<ul>
+   <li>LÓGICA DE PROGRAMAÇÃO</li>
+   <li>ORIENTAÇÃO A OBJETO</li>
+   <li>JAVA</li>
+   <li>PYTHON/li>
+   <li>SQL/MYSQL/li>
+   <li>PROGRAMAÇÃO WEB(HTML, CSS, JAVASCRIPT)</li>
+   <li>ANDROID</li>
+</ul>
+
+MAIS INFORMAÇÕES:
+-------------------
+*Ainda não possuo experiência profissional*<br/>
+*Tenho disponibilidade para estagiar no período vespertino*<br/>
+*Linkedin: [http://www.linkedin.com/in/victorolimpio](http://www.linkedin.com/in/victorolimpio) *<br/>
+
+
