@@ -8,7 +8,7 @@ CV
 ==
 **Nome**: Victor Olimpio da Silva<br/>
 **Data de Nascimento**: 15/10/1991<br/>
-**Telefone**: (81)9974206213<br/>
+**Telefone**: (81)9.9742-0621<br/>
 **Email**:victor.olimpio@gmail.com<br/>
 **Endereço**: Rua 1humaitá Nº 50, Alto do Mandú - Casa Amarela - Recife CEP:52071-182<br/>
 
@@ -28,7 +28,7 @@ COHECIMENTOS ADQUIRIDOS/ EM DESENVOLVIMENTO
    <li>JAVA</li>
    <li>PYTHON</li>
    <li>SQL/MYSQL</li>
-   <li>PROGRAMAÇÃO WEB(HTML, CSS, JAVASCRIPT)</li>
+   <li>PROGRAMAÇÃO WEB(HTML, CSS)</li>
    <li>ANDROID</li>
 </ul>
 
