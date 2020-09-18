@@ -26,8 +26,8 @@ COHECIMENTOS ADQUIRIDOS/ EM DESENVOLVIMENTO
    <li>LÓGICA DE PROGRAMAÇÃO</li>
    <li>ORIENTAÇÃO A OBJETO</li>
    <li>JAVA</li>
-   <li>PYTHON/li>
-   <li>SQL/MYSQL/li>
+   <li>PYTHON</li>
+   <li>SQL/MYSQL</li>
    <li>PROGRAMAÇÃO WEB(HTML, CSS, JAVASCRIPT)</li>
    <li>ANDROID</li>
 </ul>
