@@ -1,17 +1,46 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Software Quality Assurance (SQA) e Gestão de Requisitos (1 Vaga)
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+### Paulo Sérgio da Silva Rodrigues
+* Brasileiro, Solteiro, 21 anos
+* Rua Jorge de Lima, 245
+* Imbiribeira, Recife - Pernambuco, Brasil
+* Contato: +55 81 99714-3941 / E-mail: pssr@cin.ufpe.br
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+## Objetivo
+Ser inserido no mercado de trabalho para adquirir experiência profissional na área de Tecnologia da Informação, desenvolvendo melhores competências curriculares para um exercício de trabalho aprimorado.
+
+## Formação acadêmica
+Graduando em Sistemas de Informação – Universidade Federal de Pernambuco
+
+## Experiência
+
+### CIn-UFPE / Monitor de Engenharia de Software
+DESDE DE AGOSTO DE 2017
+
+Ajudar no entendimento dos conceitos da disciplina bem como auxiliar os monitorandos a desenvolver sistemas SaaS utilizando os ciclos BDD e TDD, metodologia ágil e com o framework Ruby on Rails.
+
+### CIn-UFPE / Monitor de Cálculo 1
+JANEIRO DE 2016 - JANEIRO DE 2017
+
+Auxiliar os monitorandos no entendimento dos conceitos de cálculo 1 e tirar dúvidas sobre exercícios no andamento da disciplina.
+
+## Informações complementares
+
+Conhecimento nas linguagens: SQL, Python, Ruby, Javascript
+
+   Alguns projetos:
+
+*  Ruby: Aplicação RESTful feita como projeto de Engenharia de Software
+	- https://github.com/IF977/iFarra
+* Javascript:
+	- https://github.com/ps1312/role_camp, Aplicação RESTful feita em NodeJS
+	- https://github.com/ps1312/angular-crud-app, Aplicação RESTful em NodeJS(Backend) e Angular5(Frontend)
+	- https://github.com/ps1312/PokeApp, Aplicação que simula uma pokedex, está rodando num servidor AWS e utilizando o S3 para armazenar fotos de perfil de usuários)
+- Habilitação tipo B
