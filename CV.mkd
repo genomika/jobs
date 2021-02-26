@@ -1,17 +1,100 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+[ESTAGIÁRIO DE DESENVOLVIMENTO DE SISTEMAS WEB]
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+<table>
+	
+Informações Básicas:
+--------------------
+   <tr>
+        <td> 
+JACKSON AUGUSTO MARCELINO JUNIOR | 24 ANOS | 
+JACKSONJR95@GMAIL.COM | (81)998668941
+        </td>
+   </tr>
+</table>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+<table>
+	
+ESCOLARIDADE:
+-------------
+   <td> 
+		<strong>TÉCNICO DE REDES DE COMPUTADORES • DATA DE CONCLUSÃO 2013 • ESCOLA TÉCNICA SENAI AREIAS</strong>
+		<p>Durante o curso eu enfatizei mais a área de gerenciamento de redes, sistemas Linux e protocolo IPv6.</p>
+	</td>
+		
+   <td>
+	<strong>CIÊNCIA DA COMPUTAÇÃO • 6º PERÍODO • UFRPE</strong>
+	<p>Tenho investido tempo na área de desenvolvimento, interface computador-humano, as linguagens que tenho afinidade são:
+		Java, Java Script, HTML e CSS,  React-native, C e Python. Noção básica de Django. </p>
+   </td>
+
+</table>
+
+<table> 
+	
+Objetivo:
+----------
+   <tr>
+		    <td>Conquistar espaço no local de trabalho, demonstrando minha capacidade e habilidade de fácil aprendizado com um desenvolvimento produtivo. Absorver mais conhecimento prático na área de desenvolvimento e tecnologia da informação dando um retorno construtivo para a sociedade.</td>
+	</tr>
+	
+</table>
+
+<table> 
+
+Habilidades:
+-------------
+   <tr>
+		    <td>
+• Fácil aprendizado.
+• Penso em equipe.
+• Boa convivência em grupo.
+• Concentrado.
+• Gosto de encontrar soluções.
+</td>
+	</tr>
+	
+</table>
+
+<table>
+	
+Experiência:
+------------
+  <td> <strong>APRENDIZ REDES DE COMPUTADORES• EMPRESA CONSÓRCIO IPOJUCA • DE 17/07/2012 – ATÉ 20/11/2013</strong>
+<p>Como aprendiz, operava na área de redes de computadores, recebia instrução e capacitação para vivência corporativa.</p>
+	</td>
+		
+   <td>
+	<strong>ESTAGIÁRIO – OPERADOR DE DADOS • VECTRA CONSULTORIAS E SERVIÇOS • DE 02/12/2013 – ATÉ 01/01/2015</strong>
+	       
+<p>Atuei como operador de dados, no projeto da rede do Estado de Pernambuco, no qual fazia o gerenciamento e monitoramento dos ativos da rede de dados de forma proativa.</p>
+
+   </td>
+
+   <td>
+	<strong>TÉCNICO DE SERVICE DESK – VOZ E DADOS • VECTRA CONSULTORIAS E SERVIÇOS • DE 02/01/2015 – ATÉ 19/04/2018</strong>
+<p>Atuei no suporte reativo da rede de dados e voz do estado de Pernambuco, verificávamos aplicativos institucionais do governo, monitorávamos e gerenciávamos os roteadores de borda, caso necessário abríamos reparo ou atendíamos a necessidade do cliente de acordo com o serviço prestado.</p>
+
+   </td>
+   
+   <td>
+	<strong>DESENVOLVEDOR – CONSULTORIA E METODOLOGIA • PROJETO BORA DADOS E MOBILIDADE • DE MARÇO/2019 – ATÉ AGOSTO/2019</strong>
+	<p>Atuei na consultoria do projeto tentando encontrar metodologias dentro da ciência de dados para aplicar nos territórios que o projeto fazia sua incidência, projetamos algumas oficinas de análise de dados abertos em Python utilizando a biblioteca Pandas. O projeto é vinculado ao Instituto Sincronicidade para interação, porém tem gestão própria e independente.</p>
+	
+   </td>
+</table>
+
+<table>
+	
+Experiência voluntária ou liderança
+-----------------------------------
+
+   <td> Sou educador social e ativista na área da tecnologia e comunicação. Faço parte de uma comunidade de T.I chamada AfroPython, onde temos como objetivo tratar das questões raciais na área da tecnologia e tornar a linguagem de programação Python, acessível nas periferias do Recife. </td>
+ 
+ </table>
