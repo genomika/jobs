@@ -1,17 +1,52 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
+Estágio em Bioinformática
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+## Wilder Barbosa Galvão
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+* Brasileiro, 24 anos
+* Endereço: Rua Doutor Zamenhof, nº 110. Boa Viagem, Recife-PE
+* Telefone: (81) 998 300 985
+* E-mail: wilder.galvao@gmail.com
+* [GitHub](https://github.com/wbgalvao)
+* [Linkedin](https://www.linkedin.com/in/wilder-b-galv%C3%A3o-06b865a8/)
+
+-----
+### Objetivo:
+
+Atuar em um ambiente corporativo ou de desenvolvimento na área de tecnologia da informação, participando de projetos que possuam um impacto positivo na sociedade moderna. Visando experiência profissional, crescimento no mercado de trabalho e harmonia entre estágio e curso de graduação. 
+
+-----
+### Formação:
+
+* Graduação em Engenharia da Computação – Faculdade IBRATEC, Recife – PE. Conclusão prevista para o segundo semestre de 2018;
+* Ensino médio concluído no Colégio Motivo em 2010.
+
+-----
+### Experiência Profissional:
+
+* __Kaplen Serviços Tecnológicos LTDA.__ *(Set. 2014/Set. 2015)* - Estagiário. Responsável pelo suporte do código da primeira versão do sistema e auxílio no desenvolvimento na segunda versão do mesmo. Tecnologias usadas: Java, Maven, Hibernate, Amazon Web Services;
+* __Microsoft Innovation Center ETEPAM__ *(Out. 2015)* - Participante do programa Microsoft Student 2 Business (trilha de desenvolvimento). Análise e desenvolvimento de um aplicativo na plataforma Universal Windows Platform conectado com o Azure;
+* __Truewind__ *(Jan. 2016/Out. 2016)* - Estagiário. Desenvolvedor de sistemas web e aplicações mobile na plataforma OutSystems. Auxílio na administração de banco de dados relacionais (Oracle 11g);
+* __C.E.S.A.R.__ *(Jun. 2016/Ago. 2016)* - Participante do programa Summer Job, desenvolvendo, em equipe, uma solução inovadora para um tema previamente dado. Principal responsável pela interface de comunicação do projeto (REST API), usando NodeJS e MongoDB;
+* __C.E.S.A.R.__ *(Out. 2016/Mar. 2017)* - Pesquisa e desenvolvimento no projeto KNoT Network of Things, uma plataforma open source para internet das coisas. Membro do time *Cloud*, desenvolvendo uma [aplicação](https://github.com/CESARBR/knot-cloud-source) de nuvem híbrida e [gerenciando](https://github.com/CESARBR/knot-gateway-buildroot) sistemas operacionais embarcados;
+* __Neurotech__ *(Nov. 2016)* - Estagiário no setor de Projetos da empresa. Contato direto com clientes, desenvolvendo políticas de créditos customizadas e consultas automatizadas a bureau externos e webservices de terceiros (SOAP).
+
+-----
+### Competências e Habilidades:
+
+* Instruído em Ciências da Computação em C, com ênfase nos princípios lógicos de programação, design de algoritmos e estrutura de dados;
+* Capaz de entender e programar nos conceitos do paradigma de Orientação à Objeto;
+* Habilidade para modelar e manipular bancos de dados relacionais e não relacionais;
+* Experiência com controle de versão de sistemas distribuídos (Git e SVN);
+* Conhecimento forte sobre áreas tangentes e relevantes a empreendimentos na área de informática, teste de softwares e desenvolvimento ágil de software;
+* Maior afinidade com as linguagens de programação Java e Python;
+
+-----
+### Idiomas:
+
+* Inglês fluente
